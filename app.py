@@ -19,7 +19,7 @@ PLOTLY_LOGO = "https://images.plot.ly/logo/new-branding/plotly-logomark.png"
 app= dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 server = app.server
 
-###4 s######
+#####5 inputs######
 # trained model
 fld_p='DECISION_TREE_FINAL.sav'
 # scaling for prediction
@@ -28,6 +28,9 @@ fld_SCALE = 'SCALING_FINAL.sav'
 fld_c='tables.txt'
 # for 3 letter code-->past 24 hrs page
 fld_s='stations_new.csv'
+# for initial map with stations
+fld_sn='stations_clean.csv'
+
 
 with open(fld_c, 'r') as f:
     cities= [line.strip() for line in f]
@@ -36,6 +39,7 @@ with open(fld_c, 'r') as f:
 loaded_clf = pickle.load(open(fld_p, 'rb'))
 scaler=pickle.load(open(fld_SCALE, 'rb'))
 stations=pd.read_csv(fld_s)
+stations_sn=pd.read_csv(fld_sn)
 
 ##################FUNCTION "LEARN MORE" BOX############
 def markdown_popup():    
@@ -179,14 +183,14 @@ app.layout=html.Div(
                                                 data = [    
                                                     dict(
                                                         type= 'scattermapbox',
-                                                        lat= list(stations['Latitude']),
-                                                        lon= list(stations['Longitude']),
+                                                        lat= list(stations_sn['Latitude']),
+                                                        lon= list(stations_sn['Longitude']),
                                                         hoverinfo= 'text',
                                                         hovertext = [["{}, {} <br>Latitude = {} <br>Longitude = {}".format(i,j,k,l)]
-                                                                        for i,j,k,l in zip(stations['Name'], stations['Province/Territory_x'],stations['Latitude'],stations['Longitude']
+                                                                        for i,j,k,l in zip(stations_sn['Name'], stations_sn['Province/Territory_x'],stations_sn['Latitude'],stations_sn['Longitude']
                                                                         )],
                                                         mode= 'markers',
-                                                        name= list(stations['Name']),
+                                                        name= list(stations_sn['Name']),
                                                         marker= dict(
                                                             size= 6,
                                                             opacity= 0.4,
