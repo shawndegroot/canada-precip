@@ -66,7 +66,7 @@ def markdown_popup():
                                 prediction whether or not there will be precipitation tomorrow for 
                                 the weather station selected, based upon the following five variables for the current day: 
                                 Mean Temperature, Maximum Temperature, 
-                                Minimum Temperature, Maximum Relative Humidity and Minimum Relative Humidity. Decision Tree Classifier trained
+                                Minimum Temperature, Maximum Relative Humidity and Minimum Relative Humidity. Precipitation defined as >= 1.1 mm. Decision Tree Classifier trained
                                 on 10 years of daily station data (2010-2019) for 83 stations, downloaded
                                 from [ClimateData.ca] (https://climatedata.ca/). Accuracy of 85%. Idea from [Rain in Australia] (https://www.kaggle.com/jsphyg/weather-dataset-rattle-package) on Kaggle.
                                 Code can be found [here] (https://github.com/shawndegroot?tab=projects).
