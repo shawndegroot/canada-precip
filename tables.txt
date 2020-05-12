@@ -1,0 +1,326 @@
+Muncho Lake
+Lansdowne House
+Mildred Lake
+Happy Valley-Goose Bay
+Estevan Point
+Collingwood
+Grand Manan
+Makkovik
+Calgary
+Salmon Arm
+Rock River
+Kelowna
+Nipawin
+Muskoka
+Granby
+Cape Race
+Stettler
+Victoria
+Kindersley
+Guelph
+Tadoule Lake
+Smithers
+Whati
+Eskasoni
+High Level
+Whitecourt
+Baie-Comeau
+Comox
+Wetaskiwin
+Dawson Creek
+Whitehorse
+Saskatoon
+Medicine Hat
+Burlington
+Nordegg
+Welland
+Mont-Joli
+Fort Severn
+Shelburne
+Charlottetown
+Aklavik
+North Bay
+Hopedale
+Crowsnest
+Red Deer
+Buffalo Narrows
+Swan River
+Lloydminster
+Dauphin
+Fort Resolution
+Rocky Harbour
+Natashquan
+Englee
+Nakusp
+Indian Head
+Teslin
+Slave Lake
+Prince Rupert
+New Carlisle
+Windsor
+Fredericton
+Leader
+Hall Beach
+Faro
+Kapuskasing
+Roblin
+Fort Liard
+Gjoa Haven
+Barrie
+Stephenville
+Aupaluk
+Baie-James
+Carberry
+Spiritwood
+Fort Simpson
+Ennadai
+Mayo
+The Pas
+Bouctouche
+Beaver Island
+Akulivik
+Kentville
+Willow Creek
+Kingston
+Lake Superior
+Rosetown
+Assiniboia
+Trenton
+Sachs Harbour
+Norway House
+Caribou
+Thetford Mines
+Milk River
+Sundre
+Chesterfield
+Cambridge Bay
+Pond Inlet
+Tracadie
+Gatineau
+Wawa
+Masset
+Whistler
+Regina
+Lethbridge
+Castlegar
+Swift Current
+Richmond
+L'Assomption
+Sarnia
+Melfort
+Camrose
+Longueuil
+Hope
+Malay Falls
+Grande Cache
+Barrhead
+Earlton
+Big Trout Lake
+Lac-Saint-Jean
+Resolute
+Cranbrook
+Shawinigan
+Cold Lake
+Hamilton
+Esquimalt
+Sudbury
+South Bruce Peninsula
+Port Hardy
+Blanc-Sablon
+Bancroft
+Brockville
+Iqaluit
+Sprague
+Red Lake
+Onefour
+La Ronge
+Delta
+La Scie
+Taloyoak
+Kimmirut
+Melita
+Rockglen
+Nanaimo
+Moncton
+Tuktoyaktuk
+West Vancouver
+Paulatuk
+Abbotsford
+North Cape
+Doaktown
+Quesnel
+Pilot Mound
+Brandon
+Pickle Lake
+Coral Harbour
+Lacombe
+Maple Creek
+Fort Good Hope
+Algonquin Park
+Edson
+Yoho
+Eastend
+Prince George
+Point Lepreau
+Morden
+Bella Coola
+Victoria Beach
+Sioux Lookout
+Kenora
+Weyburn
+White Rock
+Umiujaq
+Campbell River
+Meadow Lake
+Igloolik
+Chetwynd
+Moose Jaw
+Gore Bay
+Kamloops
+Gillam
+Inukjuak
+Malahat
+Clyde River
+Alert
+Twillingate
+Prince Albert
+Sherbrooke
+Cardston
+Peterborough
+Montreal
+Nelson
+Kouchibouguac
+Esther
+Dawson
+Powell River
+Stony Rapids
+Hay River
+Key Lake
+East Point
+Schefferville
+Kugluktuk
+Deline
+Corner Brook
+Flin Flon
+Peace River
+Kemptville
+Terra Nova
+Watson Lake
+Nain
+Gameti
+Shoal Lake
+Wrigley
+Cobourg
+Sandspit
+Attawapiskat
+Westport
+Stavely
+Waskaganish
+Blue River
+Thunder Bay
+L'Islet
+Elk Island
+Carmacks
+Saint John
+Timmins
+Mingan
+Drumheller
+North Battleford
+Sydney
+Salluit
+Ulukhaktok
+Yorkton
+Parry Sound
+Golden
+Claresholm
+Laval
+Churchill
+Tatlayoko Lake
+Peawanuck
+Cochrane
+Creston
+Bow Valley
+Fort Nelson
+Cape Dorset
+Hope Slide
+Sainte-Catherine
+Yarmouth
+Grande Prairie
+Matagami
+Cambridge
+Winnipeg
+Nicolet
+Agassiz
+Colville Lake
+Outlook
+Pangnirtung
+Petawawa
+Hendrickson Creek
+Gaspe
+Whale Cove
+Moosonee
+Hart Island
+Kuujjuarapik
+Sussex
+Stony Plain
+Marathon
+Dryden
+Kangiqsualujjuaq
+Terrace
+Halifax
+Ear Falls
+Sault Ste. Marie
+Gander
+Western Head
+Lucky Lake
+Wasagaming
+Maple Plains
+Quaqtaq
+Coronach
+Saguenay
+Norman Wells
+Sanikiluaq
+Killarney
+Port Colborne
+Chibougamau
+Naujaat
+Vegreville
+Rouyn-Noranda
+Puvirnituq
+Beaver Creek
+Estevan
+Fort Smith
+Scott
+Trois-Rivieres
+Grand Etang
+Fisher Branch
+Greenwood
+Arviat
+Pincher Creek
+Ingonish
+Waskesiu Lake
+Vancouver
+Princeton
+Watrous
+Mirabel
+Dease Lake
+Lynn Lake
+Williams Lake
+Emerson
+Woodstock
+Charlo
+Three Hills
+London
+Bathurst
+Lunenburg
+Ivujivik
+Summerland
+Penticton
+Breton
+Quebec
+Mackenzie
+Pinawa
+Fort Chipewyan
+Bow Island
+Baker Lake
+Rankin Inlet

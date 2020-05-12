@@ -1,0 +1,1636 @@
+,Unnamed: 0,Name,Latitude,Longitude,Province/Territory_x,ID_NEW,Name2
+0,1053,Beaver Creek,62.41,-140.87,YT,YXQ,Beaver Creek
+1,2125,Burwash ,62.41,-140.87,YT,WDB,
+2,651,Margaret Lake,68.8,-140.85,YT,WZR,Margaret Lake
+3,519,Ivvavik Nat. Park,69.16,-140.15,YT,WOI,Ivvavik National Park
+4,2132,Kings Point,69.16,-140.15,YT,WOP,
+5,522,Dawson,64.05,-139.13,YT,WON,Dawson
+6,810,Dawson City,64.04,-139.13,YT,YDA,Dawson Rock Creek
+7,812,Destruction Bay,61.37,-139.04,YT,YDB,
+8,292,Burwash Airport Auto,61.37,-139.03,YT,YBR,Brandon
+9,464,Herschel Island,69.57,-138.91,YT,WJN,Herschel Island
+10,443,Haines Junction,60.77,-137.58,YT,WHT,Haines Junction   Pine Creek   Pon Lake
+11,2131,James Creek,60.79,-137.55,YT,WTJ,
+12,1007,Shingle Point,68.95,-137.22,YT,YUA,Shingle Point
+13,2124,Babbage River,60.87,-137.13,YT,WAT,
+14,560,Rock River,66.98,-136.22,YT,WRR,Rock River
+15,676,Carmacks Cs,62.12,-136.19,YT,XCK,Carmacks
+16,915,Mayo,63.62,-135.87,YT,YMA,Mayo
+17,502,Pelly Island,69.62,-135.44,NT,WND,Pelly Island
+18,339,Whitehorse Auto,60.73,-135.1,YT,YXY,Whitehorse
+19,875,Aklavik,68.22,-135.01,NT,YKD,Aklavik
+20,1641,Fort Providence,67.41,-134.86,NT,YPV,
+21,2129,Haines Junction ,60.42,-133.75,YT,YHT,
+22,2134,Komakuk Beach,60.42,-133.75,YT,WKM,
+23,1248,Beatton River,59.58,-133.67,BC,YZC,
+24,1657,Johnson Point,68.32,-133.52,NT,YUN,
+25,755,Trail Valley,68.75,-133.5,NT,XTY,
+26,827,Inuvik,68.3,-133.48,NT,YEY,Amos Sainte-Gertrude-Manneville
+27,1658,Keats Point,68.3,-133.48,NT,WKP,
+28,596,Faro (Aut),62.21,-133.38,YT,WUM,Faro
+29,468,Langara Island Rcs,54.26,-133.06,BC,WJU,Langara Island Masset
+30,1327,Liard River,54.26,-133.06,BC,YZL,
+31,1008,Tuktoyaktuk,69.43,-133.03,NT,YUB,Tuktoyaktuk
+32,1680,Tuktoyaktuk,69.43,-133.02,NT,YTW,
+33,550,Kindakun Rocks (Aut),53.32,-132.77,BC,WQS,Kindakun Rocks Queen Charlotte
+34,1324,Langara Island,53.32,-132.77,BC,WLA,
+35,1085,Teslin,60.17,-132.74,YT,YZW,Teslin
+36,655,Teslin (Aut),60.17,-132.74,YT,WZW,Teslin
+37,2138,Whitehorse,60.17,-132.74,YT,WXY,
+38,2137,Sheldon Lake,61.93,-132.5,YT,FS7,
+39,1336,Merry Island,54.03,-132.13,BC,WMY,
+40,1291,Dease Lake,53.37,-131.93,BC,WDL,
+41,344,Sandspit Airport Auto,53.25,-131.81,BC,YZP,Sandspit
+42,1383,Saturna Island,53.25,-131.81,BC,VTS,
+43,1338,Mt Washington,59.5,-131.77,BC,VOJ,
+44,1339,Mule Creek,59.5,-131.77,BC,BS4,
+45,559,Rose Spit (Aut),54.16,-131.66,BC,WRO,Rose Spit Masset
+46,1381,Sand Heads Lightstation,54.2,-131.65,BC,WVF,
+47,647,Cumshewa Island,53.03,-131.6,BC,WZL,Cumshewa Island Sandspit
+48,1318,Ivory Island,52.53,-131.55,BC,WJG,
+49,1389,Sikanni Chief,52.45,-131.23,BC,WKS,
+50,1399,Texada,57.9,-131.15,BC,YGB,
+51,654,Cape St James Cs,51.94,-131.02,BC,WZY,Bull Arm Sunnyside
+52,1661,Macmillan Pass,69.6,-130.91,NT,WNV,
+53,486,Liverpool Bay,69.6,-130.89,NT,WLI,Liverpool Bay
+54,1304,Helmcken Island,54.57,-130.71,BC,WXM,
+55,399,Grey Islet (Aut),54.58,-130.7,BC,WEK,Grey Islet Metlakatla
+56,1305,Holberg,54.58,-130.7,BC,WHJ,
+57,622,Bonilla Island (Aut),53.49,-130.64,BC,WWL,Bonilla Island
+58,482,Lucy Island Lightstation,54.3,-130.61,BC,WLC,Lucy Island Lightstation Metlakatla
+59,946,Prince Rupert,54.29,-130.44,BC,YPR,Prince Rupert Metlakatla
+60,1368,Pulteney Point,54.29,-130.44,BC,WKT,
+61,438,Holland Rock,54.17,-130.36,BC,WHL,Holland Rock Port Edward
+62,1310,Hope Slide,54.17,-130.36,BC,WKV,
+63,1262,Burns Lake,56.97,-130.25,BC,YPZ,
+64,485,Little Chicago,67.18,-130.23,NT,WLG,Little Chicago
+65,1660,Lutselk'E,67.18,-130.23,NT,XLU,
+66,2136,Ross River,60.08,-130.17,YT,YDM,
+67,513,Macmillan Pass,63.24,-130.04,YT,WNY,
+68,1663,Mould Bay,63.24,-130.04,NT,WMD,
+69,816,Dease Lake,58.42,-130.03,BC,YDL,Dease Lake
+70,480,Dease Lake (Aut),58.43,-130.03,BC,WKX,Dease Lake
+71,414,Sartine Island (Aut),50.82,-128.91,BC,WFG,Sartine Island San Josef
+72,956,Watson Lake,60.12,-128.82,YT,YQH,Watson Lake
+73,737,Watson Lake (Aut),60.12,-128.82,YT,XQH,Watson Lake
+74,2141,Whitehorse,60.12,-128.82,YT,VXY,
+75,1325,Langley,54.05,-128.68,BC,YNJ,
+76,835,Fort Good Hope,66.24,-128.65,NT,YGH,Fort Good Hope
+77,1638,Fort Liard,66.24,-128.64,NT,WJF,
+78,1055,Terrace,54.47,-128.58,BC,YXT,Terrace
+79,1400,Toad River,54.47,-128.58,BC,WBP,
+80,1260,Bonilla Island,52.65,-128.52,BC,WVB,
+81,1277,Cassiar,50.78,-128.43,BC,AU9,
+82,38,Bella Bella,52.19,-128.16,BC,BBC,Bella Bella Campbell Island
+83,1294,Ethelda Bay,52.19,-128.11,BC,WTC,
+84,1253,Blackcomb,52.15,-128.08,BC,VOC,
+85,1252,Big Creek,52.14,-128.06,BC,WBG,
+86,1373,Quesnel,50.44,-128.03,BC,VQZ,
+87,562,Solander Island (Aut),50.11,-127.94,BC,WRU,Solander Island Winter Harbour
+88,1242,Alert Bay,51.6,-127.87,BC,YAL,
+89,1243,Allison Pass,51.6,-127.86,BC,YJZ,
+90,1295,Fairmont Hot Springs,51.25,-127.84,BC,YCZ,
+91,1350,Osv P 17,52.35,-127.7,BC,4YP,
+92,489,Herbert Island (Aut),50.94,-127.63,BC,WLP,Herbert Island Port Hardy
+93,493,Cathedral Point (Aut),52.19,-127.47,BC,WME,Cathedral Point Ocean Falls
+94,1279,Chrome Island,52.19,-127.47,BC,WOG,
+95,1396,Steamboat,50.0,-127.42,BC,WCK,
+96,1082,Port Hardy,50.68,-127.37,BC,YZT,Port Hardy
+97,1362,Prince George,50.68,-127.37,BC,VXS,
+98,543,Rabbit Kettle,61.96,-127.21,NT,WQF,Rabbit Kettle
+99,341,Smithers Airport Auto,54.82,-127.19,BC,YYD,Smithers
+100,1371,Qualicum,50.63,-127.15,BC,VOQ,
+101,1246,Atlin,50.58,-126.92,BC,EY5,
+102,1025,Norman Wells,65.28,-126.8,NT,YYQ,Churchill
+103,90,Norman Wells Climate,65.29,-126.75,NT,NYQ,
+104,1668,Port Radium,65.28,-126.75,NT,YZJ,
+105,1349,Ootsa Lakeskins Lake,49.6,-126.62,BC,VSL,
+106,289,Bella Coola Airport,52.39,-126.59,BC,YBD,Bella Coola Hagensborg
+107,1255,Blackcomb,52.39,-126.59,BC,VOI,
+108,393,Estevan Point Cs,49.38,-126.54,BC,WEB,Estevan Point Gold River
+109,1296,Fauquier,49.38,-126.54,BC,WFS,
+110,1392,Sparwood Elk Valley,59.9,-126.43,BC,YSW,
+111,1018,Colville Lake,67.02,-126.13,NT,YYL,Lynn Lake
+112,420,Colville Lake,67.02,-126.12,NT,WFX,Colville Lake
+113,1406,Vancouver,59.38,-126.12,BC,VWC,
+114,330,Ootsa Lake Skins Lake,53.77,-126.0,BC,YSL,St. Leonard St Leonard Saint Leonard
+115,692,Fanny Island,50.45,-125.99,BC,XFA,Fanny Island Sayward
+116,539,Burns Lake Decker Lake,54.38,-125.96,BC,WPZ,Burns Lake
+117,1264,Callaghan Valley,54.38,-125.95,BC,VOF,
+118,1398,Terrace,55.47,-125.95,BC,WSX,
+119,1306,Holberg,50.4,-125.87,BC,WXH,
+120,1265,Callaghan Valley,54.23,-125.77,BC,VOK,
+121,1342,Nanakwa Shoals,58.93,-125.77,BC,WCB,
+122,776,Port Alberni,49.08,-125.77,BC,YAZ,Tofino
+123,1247,Atlin,48.92,-125.54,BC,YSQ,
+124,1407,Vancouver Harbour,48.93,-125.52,BC,YHC,
+125,1642,Fort Providence,64.9,-125.5,NT,YJP,
+126,1341,Nanaimo Harbour,49.75,-125.29,BC,WNA,
+127,1674,St Charles Creek,71.98,-125.28,NT,WMV,
+128,782,Campbell River,49.95,-125.27,BC,YBL,Campbell River
+129,1272,Cape Scott,49.95,-125.27,BC,WES,
+130,1673,Snare River,71.99,-125.25,NT,YFU,
+131,994,Sachs Harbour,71.99,-125.24,NT,YSY,Sachs Harbour
+132,1675,Storm Hills,71.99,-125.24,NT,WVH,
+133,1403,Triple Island,58.85,-125.23,BC,WTI,
+134,1274,Carmanah Point,50.0,-125.2,BC,WUC,
+135,1276,Carmi,50.0,-125.2,BC,YXO,
+136,541,Port Alberni Airport (Aut),49.32,-124.93,BC,WQC,Port Alberni Sproat Lake
+137,965,Comox,49.71,-124.89,BC,YQQ,Comox
+138,1281,Cypress Bowl Freestyle,49.71,-124.89,BC,VOZ,
+139,1273,Cape St James,49.7,-124.87,BC,WZV,
+140,1345,Nitinat Lake,53.68,-124.83,BC,WAC,
+141,1348,Old Glory Mtn,48.67,-124.83,BC,YOG,
+142,1360,Port Mellon,49.25,-124.83,BC,VOM,
+143,1361,Powell River ,49.25,-124.8,BC,VOP,
+144,472,Grief Point,49.8,-124.53,BC,WKA,Grief Point Powell River
+145,1402,Trial Island,49.69,-124.52,BC,WIN,
+146,316,Powell River,49.83,-124.5,BC,YOP,Rainbow Lake
+147,947,Powell River,49.83,-124.5,BC,YPW,Powell River   Westview
+148,1364,Prince George,49.83,-124.5,BC,XPG,
+149,683,Deadmen Valley,61.26,-124.47,NT,XDK,Deadmen Valley
+150,431,Sisters Island,49.49,-124.43,BC,WGT,Sisters Island Lasqueti
+151,751,Tatlayoko Lake Rcs,51.67,-124.4,BC,XTL,Tatlayoko Lake
+152,317,Qualicum Beach Airport,49.34,-124.39,BC,YOQ,Eddy Point
+153,297,Fort St James Auto,54.46,-124.29,BC,YFS,Fort Simpson
+154,1677,Trail Valley,64.78,-124.22,NT,XTV,
+155,422,Ballenas Island,49.35,-124.16,BC,WGB,Ballenas Island Parksville
+156,1251,Bella Bella,49.35,-124.16,BC,YJQ,
+157,537,Puntzi Mountain Airport (Aut),52.11,-124.14,BC,WPU,Puntzi Mountain Alexis Creek
+158,1372,Quatsino Lightstation,52.11,-124.14,BC,WIF,
+159,938,Paulatuk,69.36,-124.08,NT,YPC,Paulatuk
+160,1669,Powder Lake,69.36,-124.08,NT,WMP,
+161,1670,Qavvik Lake,69.36,-124.07,NT,XQA,
+162,1292,Dryad Point,49.23,-123.95,BC,WAU,
+163,589,Tetsa River,58.65,-123.95,BC,WTH,Tetsa River (Mile 375 Alaska Hwy) Summit Lake
+164,575,Sheringham Point,48.38,-123.92,BC,WSP,Sheringham Point River Jordan
+165,795,Nanaimo,49.05,-123.87,BC,YCD,Nanaimo Extension
+166,400,Entrance Island,49.21,-123.81,BC,WEL,Entrance Island Gabriola
+167,1340,Muncho Lake,48.86,-123.76,BC,WWQ,
+168,768,Yohin,61.24,-123.74,NT,XYH,Yohin
+169,314,North Cowichan,48.82,-123.72,BC,YOO,Oshawa Toronto
+170,318,Sechelt Aut,49.46,-123.72,BC,YOU,
+171,1390,Silver Star Mountain,49.45,-123.7,BC,XSS,
+172,477,Malahat,48.57,-123.53,BC,WKH,Malahat Cliffside
+173,1335,Mcinnes Island,48.57,-123.53,BC,WMS,
+174,545,Race Rocks,48.3,-123.53,BC,WQK,Race Rocks Metchosin
+175,313,Port Mellon,49.53,-123.5,BC,YOM,
+176,463,Fort Liard,60.24,-123.47,NT,WJL,Fort Liard
+177,872,Fort Liard,60.24,-123.47,NT,YJF,Fort Liard
+178,1640,Fort Providence,60.23,-123.47,NT,XFP,
+179,2008,Lemieux,48.65,-123.45,QC,WVY,
+180,1038,Deline,65.21,-123.44,NT,YWJ,Fort Franklin   Deline
+181,530,Esquimalt Harbour,48.43,-123.44,BC,WPF,Victoria Esquimalt
+182,1418,Victoria,48.43,-123.44,BC,YVI,
+183,1044,Wrigley,63.21,-123.44,NT,YWY,Wrigley
+184,681,Deline Cs,65.21,-123.43,NT,XDE,Deline
+185,1634,Ekati ,65.21,-123.43,NT,YOA,
+186,1068,Saanich,48.65,-123.43,BC,YYJ,Victoria Sidney
+187,1036,Victoria,48.42,-123.39,BC,YWH,Victoria Esquimalt
+188,488,Victoria Gonzales Cs,48.41,-123.32,BC,WLM,Victoria Oak Bay
+189,1419,Victoria,48.41,-123.32,BC,YIR,
+190,354,Howe Sound - Pam Rocks,49.49,-123.3,BC,WAS,Pam Rocks Lions Bay
+191,1330,Lytton,49.49,-123.3,BC,VLY,
+192,1352,Pemberton,49.49,-123.3,BC,YPS,
+193,603,Sandheads Cs,49.11,-123.3,BC,WYF,Thomsen River
+194,640,Victoria University Cs,48.46,-123.3,BC,WYJ,Victoria Oak Bay
+195,1420,Victoria,48.46,-123.3,BC,WIR,
+196,568,Point Atkinson,49.33,-123.26,BC,WSB,Point Atkinson Hollyburn
+197,649,Kelp Reefs,48.55,-123.24,BC,WZO,Kelp Reefs Yacht Haven
+198,1322,Kitimat,48.55,-123.24,BC,WKI,
+199,386,Discovery Island,48.42,-123.23,BC,WDR,Discovery Island Oak Bay
+200,1293,Egg Island,48.42,-123.23,BC,WEM,
+201,1285,Cypress Bowl South,49.39,-123.21,BC,VOG,
+202,1410,Vancouver,49.3,-123.2,BC,MOC,
+203,1288,Dawson Creek,49.38,-123.19,BC,VDQ,
+204,334,Vancouver Sea Island Ccg,49.18,-123.19,BC,YVR,Vancouver Richmond
+205,1409,Vancouver,49.18,-123.19,BC,WVR,
+206,616,West Vancouver Aut,49.35,-123.19,BC,WWA,West Vancouver Campbell Scient Hollyburn
+207,1424,Whistler Mountain,49.35,-123.19,BC,VOB,
+208,1027,Richmond,49.19,-123.18,BC,YYR,Goose Happy Valley-Goose Bay
+209,1423,Whistler Mountain,49.35,-123.18,BC,VOA,
+210,572,Squamish Airport,49.78,-123.16,BC,WSK,Squamish Brackendale
+211,1334,Masset Airport,55.3,-123.13,BC,WMA,
+212,332,Saturna Capmon,48.78,-123.13,BC,YTS,Timmins
+213,1388,Sechelt,48.78,-123.13,BC,VOU,
+214,331,Tsawwassen Ferry Auto,49.0,-123.13,BC,YTF,Alma Naudville
+215,1268,Callaghan Valley,50.01,-123.12,BC,VOX,
+216,1270,Cape Mudge,50.15,-123.12,BC,WYA,
+217,436,Vancouver Harbour Cs,49.3,-123.12,BC,WHC,Vancouver Harbour North Vancouver
+218,309,Callaghan Valley,50.14,-123.11,BC,YOD,Cold Lake Medley
+219,1266,Callaghan Valley,50.14,-123.11,BC,VOV,
+220,1267,Callaghan Valley,50.14,-123.11,BC,VOW,
+221,1269,Callaghan Valley,50.14,-123.11,BC,VOY,
+222,1384,Scarlett Point,48.77,-123.11,BC,WUD,
+223,1408,Vancouver,49.29,-123.11,BC,VMO,
+224,1413,Vernon,49.18,-123.08,BC,YVK,
+225,410,Saturna Island,48.78,-123.05,BC,WEZ,Saturna Island Waldron
+226,1386,Scudder Point,48.78,-123.05,BC,WZD,
+227,1387,Sechelt,48.78,-123.04,BC,VOS,
+228,1263,Callaghan Valley,49.07,-123.01,BC,VOD,
+229,286,Delta Burns Bog,49.13,-123.0,BC,YBB,Kugaaruk Pelly Bay ( -1999) West Simpson
+230,1256,Blue River,50.13,-122.95,BC,WSV,
+231,306,Whistler - Nesters,50.13,-122.95,BC,YOC,Old Crow
+232,1425,Whistler Mountain,50.15,-122.95,BC,VOH,
+233,1426,Whistler Mountain,50.13,-122.95,BC,VOL,
+234,1427,Whistler Mountain,50.08,-122.95,BC,VOT,
+235,1257,Boat Bluff,50.1,-122.94,BC,WZP,
+236,349,Whistler  ,50.17,-122.9,BC,WAE,
+237,346,Mackenzie Airport Auto,55.31,-122.86,BC,YZY,Mackenzie
+238,714,Lindburg Landing,61.12,-122.85,NT,XLL,Lindburg Landing
+239,1415,Vernon,49.14,-122.85,BC,WVK,
+240,323,Prince George Massey Auto,53.9,-122.79,BC,YPX,Puvirnituq   Povungnituk
+241,621,White Rock,49.02,-122.78,BC,WWK,White Rock
+242,534,Pemberton Airport (Winds),50.3,-122.74,BC,WPN,Pemberton
+243,1355,Pine Island,50.3,-122.74,BC,WPI,
+244,1356,Pitt Meadows,50.3,-122.74,BC,YPK,
+245,429,Pemberton Airport,50.31,-122.73,BC,WGP,Pemberton
+246,508,Peace River,56.56,-122.72,BC,WNO,Satah River Tsiigehtchic
+247,1358,Port Alberni,49.22,-122.71,BC,YPB,
+248,496,Pitt Meadows Cs,49.21,-122.69,BC,WMM,Pitt Meadows
+249,1357,Pointer Island,49.21,-122.69,BC,WCC,
+250,337,Prince George Airport Auto,53.89,-122.67,BC,YXS,Prince George
+251,1063,Fort Nelson,58.84,-122.6,BC,YYE,Fort Nelson
+252,296,Fort Nelson,58.84,-122.57,BC,YFN,Cree Lake
+253,1299,Fort St James,58.84,-122.57,BC,YJM,
+254,1374,Quesnel,53.03,-122.51,BC,WQZ,
+255,325,Quesnel Airport Auto,53.03,-122.51,BC,YQZ,Quesnel
+256,1377,Revelstoke,53.03,-122.51,BC,YRV,
+257,1245,Ashcroft,49.02,-122.49,BC,YZA,
+258,1057,Abbotsford,49.03,-122.36,BC,YXX,Abbotsford Clearbrook
+259,1240,Aldergrove,49.03,-122.36,BC,WUJ,
+260,752,Tuktut Nogait,69.2,-122.36,NT,XTN,Tuktut Nogait
+261,1681,Virginia Falls,69.2,-122.36,NT,WFV,
+262,1431,Beausejour,52.13,-122.13,MB,YBS,
+263,1671,Rampart River,68.25,-122.1,NT,WMU,
+264,1429,Arnes,52.18,-122.05,MB,WRE,
+265,1430,Bachelors Island,52.18,-122.05,MB,WBL,
+266,1042,Williams Lake,52.18,-122.05,BC,YWL,Williams Lake
+267,294,Cultus Lake,49.08,-121.98,BC,YCL,Charlo Dalhousie
+268,475,Lillooet,50.68,-121.93,BC,WKF,Lillooet
+269,1329,Lower Liard Bridge,50.68,-121.93,BC,WBX,
+270,1679,Tuktoyaktuk,60.27,-121.8,NT,WUO,
+271,643,Agassiz Rcs,49.24,-121.76,BC,WZA,Agassiz
+272,1244,Amphitrite Point,49.24,-121.76,BC,WAN,
+273,1271,Cape Mudge,56.7,-121.75,BC,WAD,
+274,1258,Boat Bluff,51.27,-121.68,BC,WZM,
+275,868,Clinton,51.25,-121.68,BC,YIN,Bleibler Ranch
+276,804,Chetwynd,55.69,-121.63,BC,YCQ,Chetwynd
+277,1280,Clinton,55.69,-121.63,BC,WCL,
+278,1332,Lytton,50.22,-121.58,BC,VLS,
+279,304,Lytton Rcs,50.22,-121.58,BC,YLY,Lytton
+280,72,Clinton,51.14,-121.5,BC,NCN,
+281,855,Hope,49.37,-121.5,BC,YHE,Hope
+282,1311,Hope,49.37,-121.5,BC,WHF,
+283,319,Hope Airport,49.37,-121.49,BC,YPE,Grimshaw
+284,1314,Hoskins Islet,49.37,-121.48,BC,WZK,
+285,1315,Hoskins Islet,49.37,-121.48,BC,YCJ,
+286,1316,Hudson Hope,49.37,-121.48,BC,YNH,
+287,280,Ashcroft,50.71,-121.28,BC,YAS,Kangirsuk
+288,587,Sambaa K'E,60.43,-121.26,NT,WTE,Trout Lake
+289,1313,Horsefly River,49.28,-121.24,BC,WFR,
+290,1678,Tuktoyaktuk,60.44,-121.24,NT,WTW,
+291,479,Sunshine Valley,49.28,-121.23,BC,WKY,Dryad Point Campbell Island
+292,1651,Horton River,67.07,-121.1,NT,WHR,
+293,1317,Iskut River,52.0,-121.0,BC,WIO,
+294,305,Merritt,50.11,-120.78,BC,YME,Matane
+295,1337,Mount Sicker,50.11,-120.78,BC,XSI,
+296,1300,Golden,56.24,-120.74,BC,WGE,
+297,1048,Peace River,56.24,-120.74,BC,YXJ,Fort St John Baldonnel
+298,813,Princeton,49.47,-120.51,BC,YDC,Princeton
+299,536,Princeton Cs,49.47,-120.51,BC,WPR,Princeton
+300,1369,Puntzi Mountain,49.47,-120.51,BC,YPU,
+301,874,Kamloops,50.7,-120.45,BC,YKA,Kamloops North Kamloops
+302,1320,Kelowna,50.7,-120.44,BC,WLW,
+303,820,Dawson Creek,55.74,-120.18,BC,YDQ,Dawson Creek Pouce Coupe
+304,295,Clearwater Auto,51.65,-120.07,BC,YCW,Chilliwack
+305,675,Cleardale Agdm,56.31,-119.75,AB,XCD,Cleardale Rolla
+306,1155,Cooking Lake,56.31,-119.75,AB,WAL,
+307,1353,Pemberton,49.78,-119.73,BC,YTO,
+308,597,Summerland Cs,49.56,-119.65,BC,WUS,Summerland
+309,1064,Penticton,49.46,-119.6,BC,YYF,Penticton
+310,642,Osoyoos Cs,49.03,-119.44,BC,WYY,Osoyoos
+311,1351,Peachland Wind,49.03,-119.44,BC,WPW,
+312,362,Beaverlodge Rcs,55.2,-119.4,AB,WBM,Beaverlodge
+313,303,Kelowna Ubco,49.94,-119.4,BC,YKU,
+314,914,Kelowna,49.96,-119.38,BC,YLW,Kelowna Rutland
+315,1147,Big Valley,55.18,-119.37,AB,PBV,
+316,1665,Nicholson Peninsula,76.24,-119.35,NT,WRP,
+317,1666,Nipterk Base,76.25,-119.35,NT,WNI,
+318,227,Savanna Agcm,56.08,-119.34,AB,PSW,Savanna Spirit River
+319,1206,Seven Persons,56.08,-119.34,AB,PSV,
+320,1417,Victoria,50.25,-119.33,BC,WVV,
+321,1667,Norman Wells,76.23,-119.32,NT,YVQ,
+322,580,Blue River Cs,52.13,-119.29,BC,WSY,Sachs Harbour
+323,1259,Bob Quinn Lake,52.12,-119.29,BC,BW4,
+324,573,Salmon Arm Cs,50.7,-119.29,BC,WSL,Salmon Arm
+325,802,Blue River,52.12,-119.28,BC,YCP,Blue River
+326,1416,Vernon,50.23,-119.28,BC,WJV,
+327,180,La Glace Agcm,55.42,-119.25,AB,PLG,La Glace Hythe
+328,1700,Dubawnt Lake,69.28,-119.22,NU,WJZ,
+329,469,Vernon Auto,50.22,-119.19,BC,WJY,Yathkyed Lake
+330,1278,Chatham Point,49.5,-119.08,BC,WFM,
+331,968,Grande Prairie,55.18,-118.88,AB,YQU,Grande Prairie
+332,208,Rycroft Agcm,55.78,-118.67,AB,PRF,Rycroft
+333,1664,Mould Bay,61.25,-118.63,NT,YMD,
+334,526,Hendrickson Creek,53.79,-118.45,AB,WPA,Hendrickson Creek Grande Cache
+335,695,Fairview Agdm,56.08,-118.44,AB,XFR,Fairview
+336,1174,Firebag,56.08,-118.44,AB,YFI,
+337,229,Teepee Creek Agcm,55.35,-118.41,AB,PTC,Teepee Creek Sexsmith
+338,624,Willow Creek 1,53.39,-118.35,AB,WWO,Willow Creek Entrance
+339,732,Peoria Agdm,55.62,-118.29,AB,XPA,Pieoria Rycroft
+340,982,Revelstoke,50.97,-118.18,BC,YRY,
+341,327,Revelstoke Airport Auto,50.96,-118.18,BC,YRA,Rae Lakes
+342,1633,Clut Lake,65.62,-118.12,NT,WCX,
+343,470,Jasper Warden,52.93,-118.03,AB,WJW,Jasper
+344,130,Clear Hills Agcm,56.53,-117.93,AB,PCS,
+345,113,Brownvale Agcm,56.12,-117.89,AB,PBN,Brown River Berwyn
+346,138,Eaglesham Agcm,55.81,-117.89,AB,PEL,Eaglesham Tangent
+347,509,Nakusp Airport,50.27,-117.82,BC,WNP,Nakusp
+348,1343,Nechako River,50.27,-117.82,BC,WNX,
+349,856,Ulukhaktok,70.76,-117.81,NT,YHI,Ulukhaktok (Holman)
+350,703,Holman Cs,70.76,-117.8,NT,XHI,Ulukhaktok Holman
+351,762,Warfield Rcs,49.11,-117.74,BC,XWF,Warfield
+352,170,Keg River Agcm,57.79,-117.68,AB,PKG,
+353,797,Castlegar,49.3,-117.63,BC,YCG,Castlegar Ootischenia
+354,446,Fort Providence,61.32,-117.6,NT,WID,Fort Providence Kakisa
+355,1643,Fort Reliance,61.32,-117.6,NT,WFL,
+356,134,Deadwood Agcm Ab,56.72,-117.54,AB,PDO,
+357,717,Manning Agdm,56.97,-117.45,AB,XMG,Manning Notikewin
+358,639,Gameti,64.11,-117.33,NT,WYH,Rae Lakes
+359,507,Nelson Cs,49.49,-117.31,BC,WNM,Nelson
+360,1346,Nootka Lightstation,49.49,-117.31,BC,WCV,
+361,160,Hawk Hills Agcm,57.26,-117.3,AB,PHW,Hawks Hills Notikewin
+362,1347,North Cowichan,49.49,-117.3,BC,VOO,
+363,1226,Vermilion,55.08,-117.25,AB,YVG,
+364,107,Ballater Agcm,55.58,-117.24,AB,PBC,
+365,1659,Lower Carp Lake,63.13,-117.24,NT,XLC,
+366,498,Whati,63.13,-117.24,NT,WMT,Lac La Martre
+367,760,Valleyview Agdm,55.1,-117.2,AB,XYW,
+368,1225,Vermilion,55.1,-117.2,AB,XVM,
+369,933,High Level,58.62,-117.16,AB,YOJ,High Level Footner Lake
+370,1184,Highvale,58.62,-117.16,AB,WHA,
+371,168,Jean Cote Agcm,55.91,-117.12,AB,PJT,Jean Cote Nampa
+372,300,Golden Airport,51.3,-116.98,BC,YGE,Golden
+373,1302,Green Island,51.3,-116.98,BC,WNJ,
+374,1303,Green Island,51.3,-116.98,BC,WUA,
+375,89,Tompkins Landing Agcm,58.02,-116.85,AB,NTL,
+376,466,Creston Campbell Scientific,49.08,-116.5,BC,WJR,Creston
+377,1283,Cypress Bowl North,49.08,-116.5,BC,VOE,
+378,705,High Prairie Agdm,55.4,-116.48,AB,XHP,High Prairie
+379,1185,Hinton,55.4,-116.48,AB,WAP,
+380,175,Rocky Lane Agcm,58.45,-116.48,AB,PKY,
+381,826,Edson,53.58,-116.47,AB,YET,Edson
+382,1171,Ellerslie,53.58,-116.45,AB,WHE,
+383,177,La Crete Agcm,58.17,-116.34,AB,PLC,La Crete High Level
+384,641,Yoho Park,51.44,-116.34,BC,WYL,Yoho Park Stephen
+385,725,Nordegg Cs,52.47,-116.08,AB,XND,Nordegg Brazeau
+386,696,Fort Vermilion,58.38,-116.04,AB,XFY,
+387,1676,Tommy Kochon,63.5,-116.0,NT,YVL,
+388,123,Carrot Creek Agcm,53.62,-115.89,AB,PCF,
+389,335,Cranbrook Airport Auto,49.62,-115.79,BC,YXC,Cranbrook Marysville
+390,1236,Stebbins,54.14,-115.79,AK,WBB,
+391,1083,Whitecourt,54.14,-115.79,AB,YZU,Whitecourt
+392,1282,Cypress Bowl Grandstand,49.61,-115.78,BC,VWG,
+393,862,Hay River,60.84,-115.78,NT,YHY,Hay River
+394,1652,Indin River,60.84,-115.78,NT,WIE,
+395,646,Banff Cs,51.19,-115.55,AB,WZG,Banff
+396,554,Red Earth,56.55,-115.28,AB,WRD,Red Earth Atikameg
+397,1654,Inuvik,64.27,-115.22,NT,YEV,
+398,511,Nakiska Ridgetop,50.94,-115.19,AB,WNR,Nakiska Ridgetop Exshaw
+399,800,Kugluktuk,67.82,-115.14,NU,YCO,Kugluktuk (Coppermine)
+400,73,Kugluktuk Climate,67.82,-115.14,NU,NCO,
+401,757,Violet Grove Cs,53.14,-115.13,AB,XYG,
+402,1232,Wainwright,53.14,-115.13,AB,YWV,
+403,629,Bow Valley (Provincial Park),51.08,-115.07,AB,WXA,Bow Valley Seebe
+404,1150,Brooks,51.08,-115.07,AB,YBP,
+405,190,Evansburg2 Agcm,53.61,-115.06,AB,PNB,
+406,1233,Waterton Park Gate,55.35,-114.98,AB,WWT,
+407,557,Rocky Mtn House (Aut),52.42,-114.91,AB,WRM,Rocky Mountain House
+408,582,Sparwood,49.83,-114.88,BC,WSW,Sparwood Natal
+409,432,Sparwood Cs,49.75,-114.88,BC,WGW,Sparwood Natal
+410,1394,Squamish,49.75,-114.88,BC,YSE,
+411,1395,Steamboat,49.75,-114.88,BC,WBN,
+412,1078,Slave Lake,55.29,-114.78,AB,YZH,Slave Lake
+413,253,Slave Lake Rcs,55.29,-114.78,AB,PZH,
+414,1211,Sousa Creek,55.29,-114.78,AB,WSH,
+415,1212,Spirit River,55.29,-114.78,AB,XSR,
+416,1213,Spirit River,55.28,-114.78,AB,WWW,
+417,141,Fort Assiniboine Agcm,54.41,-114.77,AB,PFB,Fort Assiniboine Barrhead
+418,88,Tomahawk Agdm,53.44,-114.72,AB,NTK,Tomahawk Seba Beach
+419,252,Campsie Auto,54.13,-114.68,AB,PZC,
+420,1152,Carvel,54.13,-114.68,AB,WHK,
+421,355,Sundre A,51.78,-114.68,AB,WAY,Mould Bay
+422,149,Glenevis Agcm,53.83,-114.54,AB,PGC,Glenevis Cherhill
+423,158,Hespero Agcm,52.31,-114.49,AB,PHR,Hespero Eckville
+424,561,Crowsnest,49.63,-114.48,AB,WRT,Crowsnest Coleman
+425,81,Leedale Agdm,52.55,-114.47,AB,NLD,Leedale Rimbey
+426,665,Barrhead Cs,54.09,-114.45,AB,XBD,Barrhead
+427,1682,Alert,62.46,-114.44,NU,WML,
+428,524,Breton Plots,53.09,-114.44,AB,WOY,Wynward Wynyard
+429,1076,Rock Island,62.46,-114.44,NT,YZF,Yellowknife
+430,83,Pekisko,50.37,-114.42,AB,NPK,Pekisko Longview
+431,1223,Vauxhall,49.58,-114.42,AB,WVO,
+432,789,Springbank,51.11,-114.37,AB,YBW,Calgary Cochrane
+433,147,St. Francis,53.29,-114.32,AB,PFR,
+434,206,Priddis Observatory,50.87,-114.29,AB,PRD,Priddis Observatory
+435,388,Cop Upper,51.08,-114.22,AB,WDU,Cop Bowness
+436,112,Beaver Mines,49.47,-114.18,AB,PBM,
+437,108,Black Diamond,50.71,-114.15,AB,PBD,Black Diamond
+438,735,Edmonton Stony Plain Cs,53.55,-114.11,AB,XPS,Edmonton Stony Plain Spring Lake
+439,82,Nier Agdm,51.37,-114.1,AB,NNR,Neir Crossfield
+440,1034,Fort Smith,64.19,-114.08,NT,YWE,
+441,729,Olds Agdm,51.76,-114.08,AB,XOL,Olds
+442,104,Azure,50.51,-114.01,AB,PAZ,Azure High River
+443,126,Pincher Creek Climate,49.52,-114.01,AB,PCK,
+444,125,Calgary Int'L Cs,51.11,-114.0,AB,PCI,Calgary
+445,1151,Camrose,51.11,-114.0,AB,WRV,
+446,1196,Prairie River,49.52,-114.0,AB,XPV,
+447,684,Dapp Agdm,54.32,-113.95,AB,XDP,Dapp Pibroch
+448,106,Busby Agcm,53.93,-113.92,AB,PBB,Busby
+449,121,Crestomere Agcm,52.73,-113.9,AB,PCC,Crestomere Parkland Beach
+450,954,Red Deer,52.18,-113.89,AB,YQF,Red Deer Penhold
+451,232,Thorsby Agcm,53.22,-113.89,AB,PTH,Thorsby Calmar
+452,635,Stavely Aafc,50.18,-113.88,AB,WXN,Stavely
+453,1215,Suffield,50.18,-113.88,AB,YSD,
+454,424,Garden River,58.71,-113.87,AB,WGF,Garden River Fox Lake
+455,672,Brocket Agdm,49.62,-113.82,AB,XBR,Brocket Pincher Creek
+456,427,Waterton Park Gate,49.13,-113.81,AB,WGM,Waterton Park Gate Waterton Lakes
+457,548,Lacombe Cda 2,52.45,-113.76,AB,WQQ,Lacombe
+458,360,Inner Whalebacks,61.92,-113.73,NT,WBJ,Inner Whalebacks
+459,1656,Jean Marie,61.92,-113.73,NT,XJM,
+460,832,Fort Resolution,61.18,-113.69,NT,YFR,Fort Resolution
+461,1645,Fort Simpson,61.18,-113.69,NT,XFS,
+462,176,Linden Agcm,51.62,-113.66,AB,PLA,Linden Sunnyslope
+463,243,Blackie Agcm,50.55,-113.64,AB,PXC,
+464,381,Claresholm,50.0,-113.64,AB,WDK,Claresholm
+465,173,Keoma Agcm,51.19,-113.63,AB,PKO,
+466,223,St. Albert Research Station,53.69,-113.62,AB,PSR,
+467,687,Edmonton International Cs,53.31,-113.61,AB,XEG,Edmonton Nisku
+468,1163,Edmonton,53.31,-113.61,AB,WSE,
+469,239,Wimborne Agcm,51.94,-113.59,AB,PWB,Wimborne
+470,1162,Edmonton,53.31,-113.58,AB,YXD,
+471,822,Nisku,53.31,-113.58,AB,YEG,Edmonton Nisku
+472,163,Island Lake South,54.82,-113.56,AB,PII,
+473,110,Bullhorn Headwaters,49.15,-113.55,AB,PBH,Bullhorn Headwaters Mountain View
+474,76,Edmonton South Campus,53.49,-113.54,AB,NES,
+475,686,Edmonton Blatchford,53.57,-113.52,AB,XEC,
+476,129,Glenwood,49.33,-113.52,AB,PCR,Glenwood
+477,228,Tawatinaw Agcm,54.3,-113.52,AB,PTA,Tawatinaw
+478,179,Legal Agcm,54.0,-113.47,AB,PLF,Legal
+479,821,Namao,53.67,-113.47,AB,YED,Edmonton Carbondale
+480,240,Wetaskiwin Agcm,52.98,-113.44,AB,PWT,
+481,103,Ardenville,49.53,-113.43,AB,PAY,
+482,1220,Swan Hills,51.21,-113.4,AB,WAA,
+483,100,Athabasca Agcm,54.63,-113.38,AB,PAF,Athabasca Meanook
+484,131,Carway,49.0,-113.38,AB,PCY,
+485,1636,Fd Point,74.5,-113.38,NT,WCM,
+486,145,Fort Macleod Agcm,49.79,-113.38,AB,PFM,Ft Macleod Fort Macleod
+487,109,Beiseker Agcm,51.38,-113.36,AB,PBE,Beiseker
+488,115,Bullhorn Coulee Reservoir,49.3,-113.36,AB,PBR,Bullhorn Coulee Reservoir Cardston
+489,678,Champion Agdm,50.28,-113.35,AB,XCP,Champion Vulcan
+490,187,Mossleigh Agcm,50.67,-113.35,AB,PML,Mossleigh Farrow
+491,200,Pleasant View,54.96,-113.32,AB,PPY,
+492,415,Cardston,49.2,-113.29,AB,WFJ,Cardston
+493,224,Strathmore Agdm,51.03,-113.28,AB,PST,Strathmore
+494,1219,Sundre A,51.03,-113.28,AB,WAV,
+495,105,Barons Agcm,50.03,-113.22,AB,PBA,Barons
+496,1737,Loks Land,68.5,-113.22,NU,WLN,
+497,1738,Longstaff Bluff,68.47,-113.22,NU,WLX,
+498,437,Three Hills,51.77,-113.21,AB,WHI,Three Hills
+499,1221,Turtle Mountain,51.77,-113.21,AB,WQA,
+500,132,Delburne Agcm,52.18,-113.18,AB,PDA,Delburne
+501,191,New Serepta Agcm,53.26,-113.17,AB,PNS,New Serepta New Sarepta
+502,1158,Coronation,53.43,-113.12,AB,YCT,
+503,189,St. Mary Reservoir,49.36,-113.11,AB,PMR,St. Mary Reservoir Magrath
+504,117,Blood Tribe Agdm,49.57,-113.05,AB,PBT,Blood Tribe Magrath
+505,172,Kinikinik,54.56,-112.98,AB,PKK,
+506,218,Standard Agcm,51.23,-112.98,AB,PSD,Standard Rosebud
+507,1214,Strathmore,51.23,-112.98,AB,XSM,
+508,657,Abee Agdm,54.28,-112.97,AB,XAF,Abee Newbrook
+509,153,Gleichen Agcm,50.93,-112.94,AB,PGI,Gleichen Standard
+510,215,Radway Agcm,54.0,-112.88,AB,PRW,Radway Waskatenau
+511,412,Elk Island Nat Park,53.68,-112.87,AB,WFE,Elk Island National Park Lamont
+512,140,Ferintosh Agcm,52.74,-112.86,AB,PFA,Ferintosh Edberg
+513,233,Travers Agcm,50.3,-112.86,AB,PTR,Travers Lomond
+514,1222,Valley View,50.3,-112.86,AB,XVW,
+515,659,Atmore Agdm,54.78,-112.83,AB,XAJ,Atmore Grassland
+516,563,Camrose,53.04,-112.82,AB,WRY,Milk River
+517,680,Del Bonita Agdm,49.05,-112.82,AB,XDB,Del Bonita
+518,119,Big Valley Agcm,52.0,-112.8,AB,PBY,
+519,1148,Bonnyville,52.0,-112.8,AB,YBF,
+520,961,Lethbridge,49.63,-112.8,AB,YQL,Lethbridge
+521,1328,Lillooet,49.63,-112.8,BC,YLI,
+522,203,Queenstown,50.6,-112.8,AB,PQU,Queenston Milo
+523,546,Lethbridge Cda,49.68,-112.77,AB,WQL,Lethbridge
+524,248,Lethbridge Agtech Agcm,49.65,-112.76,AB,PXZ,
+525,202,Lethbridge Demo Farm Agdm,49.68,-112.75,AB,PQL,
+526,165,Iron Springs Agdm,49.9,-112.73,AB,PIR,Iron Springs Picture Butte
+527,1186,Jasper,49.9,-112.73,AB,WJA,
+528,391,Drumheller East,51.45,-112.68,AB,WDZ,Drumheller East
+529,1159,Edmonton,51.45,-112.68,AB,WEG,
+530,721,Morrin Agdm,51.66,-112.68,AB,XMO,Morrin
+531,216,Raymond Agdm,49.48,-112.68,AB,PRY,Raymond
+532,660,Stettler Agdm,52.35,-112.6,AB,XAK,Stettler Botha
+533,213,Milk River Ridge Reservoir,49.28,-112.54,AB,PRR,Milk River Ridge Reservoir New Dayton
+534,219,Shonts Agcm,53.33,-112.54,AB,PSH,
+535,706,Hussar Agdm,51.18,-112.5,AB,XHR,Hussar East Coulee
+536,747,Smoky Lake Agdm,54.28,-112.5,AB,XSL,Smoky Lake
+537,116,Bassano Agcm,50.89,-112.47,AB,PBS,Bassano
+538,137,Enchant Agdm,50.18,-112.43,AB,PEH,Enchant
+539,211,Rosalind Agcm,52.78,-112.43,AB,PRL,Rosalind
+540,673,Barnwell Agdm,49.8,-112.3,AB,XBW,Barnwell
+541,255,Lathom Agcm,50.6,-112.3,AB,PZL,
+542,658,Andrew Agdm,53.92,-112.28,AB,XAG,Andrew
+543,155,Gladstone Agcm,52.99,-112.28,AB,PGT,
+544,127,Craigmyle Agcm,51.78,-112.25,AB,PCM,Craigmyle
+545,701,Holden Agdm,53.19,-112.25,AB,XHD,Holden
+546,85,Cape Providence,74.46,-112.16,NT,NPY,
+547,156,Halkirk Agcm,52.12,-112.16,AB,PHA,Halkirk
+548,257,Warner Agcm,49.28,-112.16,AB,PZW,
+549,244,Hand Hills Agcm,51.45,-112.14,AB,PXH,
+550,608,Vauxhall Cda Cs,50.05,-112.13,AB,WYO,Wynward Wynyard
+551,1238,Addenbroke Island,49.5,-112.12,BC,WCZ,
+552,146,Forestburg Agcm,52.55,-112.12,AB,PFO,Forestburg
+553,1178,Fort Chipewyan,52.55,-112.12,AB,WPY,
+554,207,Rainier Agcm,50.37,-112.12,AB,PRE,
+555,764,Wrentham Agdm,49.5,-112.12,AB,XWM,Wrentham New Dayton
+556,143,Finnegan Agcm,51.05,-112.1,AB,PFF,
+557,605,Vegreville,53.51,-112.1,AB,WYI,Pools Island Valleyfield
+558,1229,Vilna,53.51,-112.1,AB,PVI,
+559,212,Rosemary Agdm,50.83,-112.05,AB,PRO,Rosemary
+560,1205,Schuler,50.83,-112.05,AB,XBU,
+561,144,Fincastle Agdm,49.8,-112.03,AB,PFI,Fincastle Taber
+562,481,Lac La Biche Climate,54.77,-112.02,AB,WLB,Lac La Biche
+563,222,Sweetgrass Landing,58.85,-112.0,AB,PSQ,
+564,1650,Haldane River,60.02,-111.97,NT,WNW,
+565,988,Fort Smith,60.02,-111.96,NT,YSM,Fort Smith
+566,1649,Gray Lake ,60.02,-111.96,NT,WJP,
+567,238,Verger,50.9,-111.96,AB,PYR,
+568,1648,Fort Smith,60.03,-111.93,NT,XAC,
+569,237,Vilna Agcm,54.13,-111.92,AB,PYI,
+570,711,Killam Agdm,52.85,-111.87,AB,XKM,Killam
+571,1188,Lac La Biche,52.85,-111.87,AB,YLB,
+572,363,Brooks,50.56,-111.85,AB,WBO,Brooks
+573,182,Ispas,53.85,-111.84,AB,PLY,
+574,142,Fleet Agcm,52.04,-111.81,AB,PFE,
+575,98,Alliance Agcm,52.32,-111.78,AB,PAA,Alliance Castor
+576,154,Grassy Lake,49.87,-111.73,AB,PGL,Grassy Lake Bow Island
+577,193,Ranfurly Auto,53.42,-111.73,AB,PNX,
+578,236,Viking Agcm,53.18,-111.73,AB,PYA,
+579,734,Pollockville Agdm,51.13,-111.71,AB,XPL,Pollockville Sheerness
+580,1197,Primrose Lake,51.13,-111.71,AB,WOU,
+581,1181,Fort Vermillion,57.38,-111.7,AB,XFV,
+582,743,Rich Lake Agdm,54.5,-111.7,AB,XRL,Rich Lake Craigend
+583,1202,Rocky Mountain House,54.5,-111.7,AB,YRM,
+584,209,Rolling Hills Agcm,50.27,-111.7,AB,PRH,Rolling Hills Tilley
+585,1501,Edmundston,54.13,-111.68,NB,YES,
+586,1198,Primrose Lake,58.63,-111.68,AB,WIQ,
+587,221,Spondin Agcm,51.82,-111.68,AB,PSP,Spondin Dowling
+588,750,Two Hills Agdm,53.63,-111.68,AB,XTH,Two Hills
+589,1224,Vegreville,53.63,-111.68,AB,WVI,
+590,720,Masinasin Agdm,49.14,-111.65,AB,XMN,Mansinasin Coutts
+591,246,Sheerness Agcm,51.46,-111.65,AB,PXS,
+592,199,Patricia Agcm,50.74,-111.62,AB,PPT,
+593,499,Mildred Lake,57.04,-111.56,AB,WMX,Mildred Lake Tar Island
+594,174,Kinsella Researc Station,53.05,-111.55,AB,PKR,
+595,694,Foremost Agdm,49.48,-111.49,AB,XFM,Foremost
+596,111,Bellshill Agcm,52.58,-111.47,AB,PBL,Bellshill Hardisty
+597,634,Bow Island,49.73,-111.45,AB,WXL,Bow Island
+598,375,Coronation Climate,52.07,-111.45,AB,WCT,Coronation
+599,220,St. Lina Agcm,54.28,-111.45,AB,PSL,St Lina Mallaig
+600,192,Sunnynook Agcm,51.3,-111.39,AB,PNU,
+601,245,Bow Island Irrigation Agdm,49.87,-111.38,AB,PXL,Bow Island
+602,230,Tide Lake Agcm,50.46,-111.32,AB,PTE,
+603,748,St. Paul Agcm,54.01,-111.27,AB,XSP,St Paul St. Paul
+604,184,Mannville Agcm,53.46,-111.26,AB,PMA,Mannville
+605,449,Lupin Cs,65.76,-111.25,NU,WIJ,Lupin
+606,919,Fort Mcmurray,56.65,-111.22,AB,YMM,Fort McMurray
+607,251,Youngstown Agcm,51.49,-111.22,AB,PYT,
+608,719,Fort Mcmurray Cs,56.65,-111.21,AB,XMM,Fort McMurray
+609,157,Hemaruka Agcm,51.78,-111.21,AB,PHE,Hemaruka Veteran
+610,247,Ralston Agcm,50.1,-111.21,AB,PXX,
+611,101,Albert Hall Agcm,53.11,-111.18,AB,PAH,Albert Hall Irma
+612,1144,Athabasca,53.11,-111.18,AB,YWM,
+613,196,Pakowki Lake Agcm,49.22,-111.13,AB,PPL,Pakowki Lake Gahern
+614,949,Fort Chipewyan,58.77,-111.12,AB,YPY,Fort Chipewyan
+615,124,Fort Chipewyan Rcs,58.77,-111.12,AB,PCH,
+616,1179,Fort Mackay,58.77,-111.12,AB,YNR,
+617,169,Kessler Agcm,52.29,-111.11,AB,PKA,Kessler Hughenden
+618,188,Myrnam Agcm,53.72,-111.11,AB,PMN,Myrnam Slawa
+619,1235,Whitecourt,52.83,-111.1,AB,XZU,
+620,139,Etzicom Agcm,49.55,-111.05,AB,PET,Etzicom Etzikom
+621,256,Pinhorn Agcm,49.03,-111.03,AB,PZN,
+622,102,Atlee Agcm,50.81,-111.01,AB,PAT,Atlee
+623,1146,Banff,50.81,-111.01,AB,YBA,
+624,226,Seven Persons Agdm,49.92,-110.92,AB,PSY,
+625,758,Vermilion Agdm,53.34,-110.88,AB,XYM,
+626,1230,Violet Grove,53.34,-110.88,AB,XVG,
+627,135,Dupre Agcm,54.37,-110.87,AB,PDU,Dupree Pelican Narrows
+628,1160,Edmonton,54.37,-110.87,AB,WNT,
+629,122,Cereal Agcm,51.28,-110.82,AB,PCE,
+630,1231,Vulcan,53.36,-110.82,AB,WUN,
+631,128,Cappon,51.07,-110.8,AB,PCN,
+632,148,Gooseberry Lake Agcm,52.11,-110.8,AB,PGB,
+633,159,Hughenden Agcm,52.58,-110.78,AB,PHU,Hughenden Czar
+634,217,Sedalia Agcm,51.59,-110.75,AB,PSA,Sedalia Cereal
+635,1149,Breton Plots,54.3,-110.74,AB,WOV,
+636,1046,Medecine Hat,50.02,-110.72,AB,YXH,Medicine Hat
+637,723,Medicine Hat Rcs,50.03,-110.72,AB,XMW,Medicine Hat
+638,679,Consort Agdm,51.94,-110.71,AB,XCS,Consort
+639,242,Buffalo Agcm,50.8,-110.69,AB,PXB,
+640,907,Lutselk'E,62.42,-110.68,NT,YLK,Lutselk'e Lutselke Snowdrift
+641,185,Manyberries Agcm,49.36,-110.68,AB,PMB,Manyberries
+642,150,Gilt Edge North Agcm,53.07,-110.62,AB,PGE,Gilt Edge North Paradise Valley
+643,1182,Grande Cache,53.07,-110.62,AB,WAM,
+644,133,Dewberry Agcm,53.66,-110.59,AB,PDB,Dewberry
+645,80,Lindbergh Agdm,53.94,-110.58,AB,NLB,Lindbergh
+646,1189,Manning,53.94,-110.58,AB,WAI,
+647,120,Cadogan Agcm,52.33,-110.51,AB,PCA,Cadogan Provost
+648,118,Bull Springs Agcm,50.34,-110.48,AB,PBU,
+649,518,Onefour Cda,49.12,-110.47,AB,WOE,Onefour Fox Crossing
+650,688,Egg Island,58.98,-110.44,AB,XEL,Egg Island
+651,1172,Empress,58.98,-110.44,AB,YEA,
+652,136,Edgerton Agcm,52.78,-110.43,AB,PEA,Edgerton
+653,171,Kitscoty Agcm,53.35,-110.42,AB,PKI,Kitscoty
+654,254,Kirriemuir Agcm,51.91,-110.36,AB,PZK,
+655,731,Oyen Agdm,51.38,-110.35,AB,XOY,Oyen
+656,183,Lodge Creek,49.46,-110.34,AB,PLZ,
+657,214,Ribstone South Agcm,52.59,-110.34,AB,PRS,Ribstone South Dunn
+658,99,Acadia Valley,51.07,-110.32,AB,PAC,Acadia Valley
+659,161,Irvine Agcm,49.99,-110.26,AB,PIA,Irvine Walsh
+660,1187,Jasper,49.99,-110.26,AB,YJA,
+661,434,Esther 1,51.67,-110.21,AB,WGY,Esther Loverna
+662,197,Social Plains Agcm,50.73,-110.21,AB,PPN,
+663,664,Bodo Agdm,52.12,-110.1,AB,XBA,Bodo
+664,205,Rivercourse Agcm,53.02,-110.1,AB,PRA,Rivercourse
+665,744,Schuler Agdm,50.31,-110.09,AB,XSC,Schuler
+666,234,Tulliby Lake Agcm,53.66,-110.08,AB,PTU,Tulliby Lake Onion Lake
+667,909,Lloydminister,53.31,-110.07,AB,YLL,Lloydminster
+668,1173,Evansburg,50.93,-110.01,AB,PEB,
+669,439,Jimmy Lake Awos,54.91,-109.96,SK,WHN,Jimmy Lake Cold Lake
+670,2071,Broadview,59.22,-109.7,SK,YDR,
+671,609,Cypress Hills Park,49.64,-109.51,SK,WYP,Sturt Point North
+672,2083,Elbow,49.64,-109.51,SK,YOK,
+673,471,Leader Airport,50.91,-109.5,SK,WJX,Leader
+674,497,Maple Creek,49.9,-109.47,SK,WMQ,Maple Creek
+675,241,Waseca Rcs,53.13,-109.41,SK,PWX,
+676,894,Kindersley,51.52,-109.18,SK,YKY,Kindersley
+677,2094,La Ronge,51.52,-109.18,SK,YVC,
+678,421,Fort Reliance (Aut),62.71,-109.17,NT,WFZ,Fort Reliance
+679,164,Loon Lake Rcs,54.02,-109.14,SK,PIL,Cypress River
+680,2097,Maple Creek,54.02,-109.14,SK,WMC,
+681,1630,Camsell River,68.75,-109.07,NT,WOA,
+682,397,Eastend Cypress (Aut),49.44,-108.99,SK,WEH,Eastend Cypress
+683,592,Scott Cda,52.36,-108.83,SK,WTS,Saturna Island Waldron
+684,1701,Ellice River,76.47,-108.77,NU,WEV,
+685,487,Meadow Lake,54.13,-108.52,SK,WLJ,Meadow Lake
+686,905,Meadow Lake,54.13,-108.52,SK,YLJ,Meadow Lake
+687,377,Uranium City (Aut),59.57,-108.48,SK,WDC,Uranium City Beaverlodge Lake Eldorado
+688,2116,Waskesiu Lake,59.57,-108.48,SK,WLV,
+689,2079,Collins Bay,55.83,-108.43,SK,YKC,
+690,1029,Buffalo Narrows,55.84,-108.42,SK,YYT,St. John's St Johns Logy Bay-Middle Cove-Outer Cove
+691,612,Buffalo Narrows (Aut),55.84,-108.42,SK,WYT,St Johns Mount Pearl
+692,2078,Collins Bay,55.84,-108.42,SK,WKC,
+693,204,North Battleford Rcs,52.77,-108.25,SK,PQW,
+694,972,Noth Battleford,52.77,-108.24,SK,YQW,North Battleford
+695,2106,Points North Landing,52.77,-108.24,SK,YNL,
+696,70,Bathurst Inlet,66.84,-108.01,NU,NBI,
+697,1687,Black Top Ridge,66.84,-108.01,NU,WQN,
+698,555,Rosetown East,51.57,-107.92,SK,WRJ,Rosetown East
+699,538,Cape Peel West,69.04,-107.82,NU,WPX,Cape Peel West
+700,1635,Fd Point,76.42,-107.82,NT,WDG,
+701,2115,Vanscoy,50.27,-107.75,SK,WVS,
+702,602,Swift Current Cda,50.27,-107.73,SK,WYC,Edmonton
+703,2113,Uranium City,50.27,-107.73,SK,YBE,
+704,2114,Val Marie Southeast,50.27,-107.73,SK,WVN,
+705,1069,Swift Current,50.29,-107.69,SK,YYN,Swift Current
+706,607,Val Marie Southeast,49.06,-107.59,SK,WYN,Swift Current
+707,2117,Wathaman River,49.06,-107.59,SK,WCE,
+708,576,Spiritwood West,53.37,-107.56,SK,WSR,Spiritwood West
+709,483,Lucky Lake,50.95,-107.15,SK,WLE,Lucky Lake
+710,638,Outlook Pfra,51.48,-107.05,SK,WYE,Outlook
+711,186,Mankota,49.1,-107.02,SK,PMK,
+712,1707,Fd Point,63.0,-107.0,NU,WFB,
+713,194,Saskatoon Rcs,52.17,-106.72,SK,POX,Saskatoon
+714,1045,Saskatoon,52.17,-106.7,SK,YXE,Saskatoon
+715,2110,Saskatoon,52.17,-106.7,SK,WCD,
+716,1761,Yohin,77.2,-106.7,NU,YUI,
+717,521,Elbow Cs,51.13,-106.58,SK,WOK,Elbow
+718,491,Waskesiu Lake,53.92,-106.07,SK,WLY,Lytton
+719,478,Rockglen (Aut),49.17,-105.98,SK,WKO,Rockglen
+720,462,Assiniboia Airport,49.73,-105.95,SK,WJI,Assiniboia
+721,985,Stony Rapids,59.25,-105.84,SK,YSF,Stony Rapids
+722,198,Prince Albert Glass Field,53.21,-105.68,SK,PPR,
+723,937,Prince Albert,53.21,-105.67,SK,YPA,Prince Albert
+724,884,Key Lake,57.26,-105.62,SK,YKJ,Key Lake
+725,181,Key Lake,57.25,-105.6,SK,PLS,
+726,918,Moose Jaw,50.33,-105.57,SK,YMJ,Moose Jaw Archive
+727,353,Coronach Spc,49.05,-105.48,SK,WAQ,Coronach
+728,2082,Dafoe,49.05,-105.48,SK,YVX,
+729,455,Watrous East,51.67,-105.4,SK,WIW,Watrous East
+730,745,Stefansson Island,73.77,-105.3,NU,XSE,Stefansson Island
+731,730,La Ronge Rcs,55.15,-105.27,SK,XOX,La Ronge
+732,2096,Lloydminister,55.15,-105.27,SK,CYL,
+733,632,Last Mountain Cs,51.42,-105.24,SK,WXG,Last Mountain Simpson
+734,235,Pilger,52.42,-105.15,SK,PUN,
+735,793,Cambridge Bay,69.11,-105.14,NU,YCB,Cambridge Bay
+736,677,Cambridge Bay Gsn,69.11,-105.12,NU,XCM,Cambridge Bay
+737,1631,Clinton Point,69.13,-105.07,NT,WXK,
+738,1632,Clinton Point,69.12,-105.02,NT,YUH,
+739,667,Bratt'S Lake Climate,50.2,-104.71,SK,XBK,Bratts Lake Wilcox
+740,2073,Broadview,50.2,-104.71,SK,WXU,
+741,966,Regina,50.43,-104.67,SK,YQR,Regina Grand Coulee
+742,380,Regina Rcs,50.43,-104.67,SK,WDJ,Regina Grand Coulee
+743,413,Melfort,52.82,-104.6,SK,WFF,Melfort
+744,1703,Eureka,67.72,-104.47,NU,YEU,
+745,2119,Yorkton,51.77,-104.2,SK,YQV,
+746,250,Yellow Grass North,49.82,-104.18,SK,PYS,
+747,2101,Nipawin,53.33,-104.01,SK,XSN,
+748,786,Nipawin,53.33,-104.01,SK,YBU,Nipawin
+749,366,Nipawin,53.33,-104.0,SK,WBU,Nipawin
+750,620,Weyburn,49.69,-103.8,SK,WWF,Weyburn
+751,618,Collins Bay,58.23,-103.68,SK,WWC,
+752,2080,Cree Lake,58.23,-103.68,SK,WFN,
+753,2081,Cypress Hills Park,58.24,-103.68,SK,WVP,
+754,358,Indian Head Cda,50.55,-103.65,SK,WBD,Indian Head
+755,445,Isachsen (Aut),78.79,-103.55,NU,WIC,Isachsen
+756,1729,Jenny Lind Island,78.79,-103.55,NU,WUQ,
+757,1731,Kangok Fiord,78.79,-103.55,NU,WKN,
+758,2111,Swift Current,53.7,-103.35,SK,WVC,
+759,461,Southend,56.34,-103.29,SK,WJH,Southend
+760,824,Estevan,49.21,-102.97,SK,YEN,Estevan
+761,166,Estevan Rcs,49.21,-102.97,SK,PJM,
+762,2087,Hudson Bay,49.22,-102.97,SK,YHB,
+763,2077,Cluff Lake,50.38,-102.68,SK,XXX,
+764,450,Broadview,50.37,-102.57,SK,WIK,Broadview
+765,2074,Buffalo Narrows,50.37,-102.57,SK,YVT,
+766,2076,Candle Lake,50.37,-102.57,SK,WLZ,
+767,2123,Aishihik,51.26,-102.46,YK,YZK,
+768,969,Yorkton,51.26,-102.46,SK,YQY,Sydney Dominion
+769,210,Yorkton Rcs,51.26,-102.46,SK,PRJ,
+770,586,Robertson Lake (Aut),65.1,-102.43,NU,WTD,Robertson Lake   Thelon
+771,162,Island Falls (Aut),55.53,-102.35,SK,PIF,
+772,1732,Killiniq,68.65,-101.73,NU,WWV,
+773,416,Flin Flon,54.68,-101.68,MB,WFO,Flin Flon Channing
+774,830,Flin Flon,54.68,-101.68,MB,YFO,Flin Flon Bakers Narrows
+775,1447,Foxwarren,54.68,-101.68,MB,XFW,
+776,630,Roblin,51.18,-101.36,MB,WXB,Roblin
+777,403,Swan River Rcs,52.12,-101.23,MB,WEQ,Swan River
+778,953,The Pas,53.97,-101.09,MB,YQD,The Pas Grace Lake
+779,201,The Pas Climate,53.97,-101.09,MB,PQD,The Pas
+780,178,Lynn Lake Rcs,56.86,-101.07,MB,PLE,
+781,1744,Mt Arthur,78.22,-101.05,NU,WNG,
+782,398,Melita,49.28,-100.99,MB,WEI,Melita
+783,459,Ennadai Lake (Aut),61.13,-100.88,NU,WJC,Ennadai Lake
+784,1704,Fd Point,61.13,-100.88,NU,WKJ,
+785,598,Shoal Lake Cs,50.45,-100.6,MB,WUT,Shoal Lake
+786,1481,St Theresa Point,50.45,-100.6,MB,YST,
+787,79,Gateshead Island,70.63,-100.27,NU,NGH,
+788,451,Hat Island,68.32,-100.09,NU,WIL,Hat Island
+789,652,Dauphin Cs,51.1,-100.06,MB,WZT,Dauphin
+790,817,Dauphin,51.1,-100.05,MB,YDN,Dauphin
+791,1444,Delta Marsh,51.1,-100.05,MB,WUG,
+792,114,Brandon Rcs,49.9,-99.95,MB,PBO,
+793,1436,Camp Shilo,49.91,-99.95,MB,YLO,
+794,625,Wasagaming,50.66,-99.94,MB,WWP,Wasagaming
+795,1491,Winnipeg,50.66,-99.94,MB,WWI,
+796,523,Mccreary,50.71,-99.53,MB,WOO,Wilson Creek McCreary
+797,644,Carberry Cs,49.91,-99.36,MB,WZE,Carberry
+798,460,Grand Rapids (Aut),53.19,-99.27,MB,WJD,Grand Rapids
+799,1454,Gretna,53.19,-99.27,MB,YGN,
+800,1455,Hecla Island,53.18,-99.27,MB,YHL,
+801,1746,Nottingham Island,72.97,-99.13,NU,YNO,
+802,195,Cypress River Rcs,49.56,-99.07,MB,POY,Cypress River
+803,1443,Deerwood,49.56,-99.07,MB,XDW,
+804,1745,Nanisivik,80.03,-99.03,NU,YSR,
+805,535,Pilot Mound (Aut),49.19,-98.91,MB,WPO,Pilot Mound
+806,785,Tadoule Lake,58.71,-98.51,MB,YBQ,Tadoule Lake
+807,671,Tadoule Lake Cs,58.71,-98.5,MB,XBQ,Tadoule Lake
+808,1688,Brevoort Island,75.72,-98.42,NU,WOT,
+809,1467,Nejanilini Lake,49.4,-98.31,MB,YNN,
+810,531,Portage Southport,49.9,-98.28,MB,WPG,Portage La Prairie
+811,1477,Rivers,49.9,-98.28,MB,YYI,
+812,941,Portage Southport,49.9,-98.27,MB,YPG,Portage La Prairie Hoop and Holler Bend
+813,716,Morden Cda Cs,49.19,-98.08,MB,XMD,Morden
+814,520,Oakpoint Marine,50.5,-98.04,MB,WOJ,Oakpoint Eriksdale
+815,505,Carman U Of M Cs,49.5,-98.03,MB,WNK,Carman
+816,167,Cross Lake Jenpeg 2,54.54,-98.03,MB,PJP,
+817,1000,Mystery Lake,55.8,-97.86,MB,YTH,Thompson
+818,1488,Virden/R.J. (Bob) Andrew Field Regional Aerodrome,55.8,-97.86,MB,YVD,
+819,1489,Vivian,55.8,-97.86,MB,WVJ,
+820,1490,Wabowden,55.8,-97.86,MB,YWB,
+821,931,Norway House,53.96,-97.84,MB,YNE,Norway House
+822,1471,Oxford House,53.96,-97.84,MB,YOH,
+823,1718,Grise Fiord,68.67,-97.8,NU,YGZ,
+824,1487,Victoria Beach,55.32,-97.71,MB,WII,
+825,626,George Island (Aut),52.82,-97.62,MB,WWS,George Island Berens River
+826,1458,Island Lake,49.03,-97.57,MB,WIV,
+827,428,Gretna (Aut),49.03,-97.56,MB,WGN,Gretna
+828,584,Fisher Branch (Aut),51.08,-97.55,MB,WSZ,Fisher Branch
+829,1476,Red Sucker Lake,53.0,-97.27,MB,YRS,
+830,763,Winnipeg 'A' Cs,49.92,-97.25,MB,XWG,Winnipeg Brooklands
+831,1492,Winnipeg,49.92,-97.25,MB,XWI,
+832,409,Emerson Auto,49.0,-97.24,MB,WEX,Emerson
+833,1035,Winnipeg,49.91,-97.24,MB,YWG,Winnipeg Brooklands
+834,1493,Winnipeg,49.91,-97.24,MB,FSM,
+835,1498,Woodlands,49.9,-97.23,MB,XWL,
+836,765,Winnipeg The Forks,49.89,-97.13,MB,XWN,City Centre
+837,1496,Winnipeg,49.88,-97.13,MB,YAV,
+838,152,Gimli Climate,50.63,-97.05,MB,PGH,Gimli
+839,788,Berens River,52.36,-97.02,MB,YBY,
+840,370,Berens River Cs,52.36,-97.02,MB,WCF,Berens River
+841,1435,Brochet,52.36,-97.02,MB,YBT,
+842,698,Gimli Harbour Cs,50.63,-96.98,MB,XGH,Gimli
+843,1450,Gods Lake Narrows,50.63,-96.98,MB,YGO,
+844,1432,Berens River,50.8,-96.95,MB,YBV,
+845,231,Kleefeld (Mafri),49.53,-96.91,MB,PTG,
+846,1711,Fox Five ,62.87,-96.82,NU,WVD,
+847,1459,Island Lake,51.17,-96.67,MB,YIV,
+848,1463,Lac Du Bonnet,56.04,-96.51,MB,YAX,
+849,1464,Leaf Rapids,56.04,-96.51,MB,YLR,
+850,780,Baker Lake,64.3,-96.08,NU,YBK,Baker Lake
+851,1686,Bernard Harbour,64.3,-96.08,NU,WHS,
+852,392,Pinawa,50.18,-96.06,MB,WEA,Pinawa Lac du Bonnet
+853,151,Great Falls Climate,50.46,-96.01,MB,PGF,
+854,1762,Alexandria,64.32,-96.0,ON,TAL,
+855,668,Baker Lake Climate,64.32,-96.0,NU,XBL,Baker Lake
+856,1456,Hunters Point,50.52,-95.98,MB,WHH,
+857,1717,Grant,68.66,-95.87,NU,WWM,
+858,858,Gjoa Haven,68.64,-95.85,NU,YHK,Gjoa Haven
+859,1715,Gladman Point (King William),68.64,-95.85,NU,WGI,
+860,1716,Gladman Point (King William),68.64,-95.85,NU,YUR,
+861,579,Sprague,49.02,-95.6,MB,WSU,Sprague
+862,1755,Resolution Island,74.72,-94.98,NU,YRE,
+863,974,Resolute,74.72,-94.97,NU,YRB,Resolute
+864,738,Resolute Cs,74.71,-94.97,NU,XRB,Resolute
+865,850,Gillam,56.36,-94.71,MB,YGX,Gillam
+866,1448,Gimli,56.36,-94.71,MB,WGO,
+867,433,Gillam,56.36,-94.7,MB,WGX,Gillam
+868,1449,Gimli,56.36,-94.7,MB,YGM,
+869,871,Island Lake,53.86,-94.65,MB,YIY,
+870,1452,Grand Rapids,54.56,-94.49,MB,YJD,
+871,1832,King City,49.79,-94.38,ON,WKR,
+872,960,Kenora,49.79,-94.36,ON,YQK,Kenora
+873,265,Kenora Rcs,49.79,-94.36,ON,TKR,Kenora
+874,1831,Kincardine,49.79,-94.36,ON,YKM,
+875,77,Fort Ross,72.02,-94.2,NU,NFR,
+876,1712,Fox Five ,72.02,-94.2,NU,WVM,
+877,249,Churchill Climate,58.74,-94.08,MB,PYQ,
+878,823,Arviat,61.09,-94.07,NU,YEK,Arviat Eskimo Point ( -1989)
+879,661,Arviat Climate,61.1,-94.07,NU,XAR,Arviat Eskimo Point ( -1989)
+880,1440,Churchill,58.74,-94.07,MB,YCM,
+881,978,Red Lake,51.07,-93.79,ON,YRL,Red Lake McKenzie Island
+882,271,Rawson Lake (Aut),49.66,-93.73,ON,TRA,
+883,1882,Rigaud,49.66,-93.73,ON,MRI,
+884,1066,Taloyoak,69.55,-93.58,NU,YYH,Taloyoak Spence Bay ( -1992)
+885,1479,Shilo,54.17,-93.56,MB,WLO,
+886,258,Fort Frances Rcs,48.65,-93.44,ON,TAG,Fort Frances Riverside Mobile Home Court
+887,1011,Shepherd Bay,68.79,-93.44,NU,YUS,Shepherd Bay
+888,1757,Simpson Lake,68.82,-93.43,NU,WZI,
+889,1758,Skull Point,68.82,-93.42,NU,WJE,
+890,685,Ear Falls (Aut),50.63,-93.22,ON,XEA,Ear Falls
+891,854,Dryden,49.83,-92.74,ON,YHD,Dryden
+892,1050,Whale Cove,62.24,-92.6,NU,YXN,Whale Cove
+893,1889,Sarnia,53.89,-92.2,ON,XZR,
+894,981,Rankin Inlet,62.81,-92.11,NU,YRT,Rankin Inlet
+895,1049,Sioux Lookout,50.11,-91.91,ON,YXL,Sioux Lookout
+896,1896,Slate Island,50.11,-91.91,ON,WNU,
+897,1897,Smiths Falls-Montague (Russ Beach),50.11,-91.91,ON,YSH,
+898,94,Sioux Lookout Airport,50.12,-91.9,ON,OSL,
+899,86,Svartevaeg,81.16,-91.82,NU,NSG,
+900,1850,Nakina,53.44,-91.76,ON,YQN,
+901,1826,Kasabonika,49.43,-91.72,ON,YAQ,
+902,1765,Barrie,48.77,-91.64,ON,WCU,
+903,371,Atikokan (Aut),48.76,-91.63,ON,WCH,Atikokan Lone Pine
+904,806,Chesterfield Inlet,63.35,-90.73,NU,YCS,Chesterfield Inlet Chesterfield
+905,1936,Vineland Station,49.03,-90.47,ON,XVN,
+906,389,Upsala (Aut),49.04,-90.46,ON,WDY,
+907,533,Pickle Lake (Aut),51.45,-90.22,ON,WPL,Pickle Lake
+908,943,Pickle Lake,51.45,-90.21,ON,YPL,Pickle Lake
+909,1875,Pikangikum,51.45,-90.21,ON,YPM,
+910,1001,Big Trout Lake,53.82,-89.9,ON,YTL,Big Trout Lake
+911,1775,Bonner Lake,53.82,-89.9,ON,BON,
+912,1776,Brampton,53.82,-89.9,ON,YBM,
+913,1777,Brantford,53.82,-89.9,ON,YFD,
+914,96,Big Trout Lake,53.82,-89.89,ON,OTL,
+915,1774,Big Trout Lake,53.82,-89.89,ON,WTL,
+916,69,Kugaaruk Climate,68.54,-89.79,NU,NBB,
+917,1736,Lady Franklin Point,68.43,-89.72,NU,YUJ,
+918,761,Wager Bay (Aut),65.88,-89.45,NU,XWB,Wager Bay
+919,1759,Whiskey,65.88,-89.45,NU,WKU,
+920,1909,Thunder Bay,48.37,-89.33,ON,XNI,
+921,967,Thunder Bay,48.37,-89.32,ON,YQT,Thunder Bay
+922,1910,Timmins,48.37,-89.32,ON,XTI,
+923,1911,Tobermory,48.85,-89.12,ON,TTS,
+924,394,Welcome Island (Aut),48.37,-89.12,ON,WEC,Welcome Island Thunder Bay
+925,1943,Wiarton,48.37,-89.12,ON,YVV,
+926,1764,Atikokan,50.3,-89.03,ON,YIB,
+927,1809,Fort Albany,57.0,-89.0,ON,YFA,
+928,1072,Thunder Bay,50.29,-88.91,ON,YYW,Armstrong Armstrong Station
+929,1935,Upsala,48.3,-88.87,ON,YDV,
+930,674,Cameron Falls (Aut),49.15,-88.34,ON,XCA,Cameron Falls Nipigon
+931,484,Lansdowne House (Aut),52.2,-87.94,ON,WLF,Lansdowne House AUT Fort Hope
+932,904,Kenora,52.2,-87.93,ON,YLH,Lansdowne House Fort Hope
+933,1836,Long Point,52.2,-87.93,ON,WPS,
+934,1813,Franktown,51.56,-87.91,ON,XFT,
+935,825,Fort Severn,56.02,-87.68,ON,YER,Fort Severn
+936,1770,Big Thunder,48.75,-87.55,ON,WQU,
+937,1942,White River,52.96,-87.38,ON,YWR,
+938,1724,Ida,58.5,-87.17,NU,WGS,
+939,1908,Thunder Bay,48.82,-87.1,ON,XQT,
+940,97,Terrace Bay Airport,48.82,-87.09,ON,OTR,
+941,1899,Southeast Shoal,48.62,-87.0,ON,WOR,
+942,1898,Southeast Shoal,48.54,-86.95,ON,WNB,
+943,842,Greenstone,49.78,-86.94,ON,YGQ,Geraldton
+944,92,Geraldton Airport,49.78,-86.93,ON,OGE,
+945,1852,North Bay,50.18,-86.7,ON,WLQ,
+946,1853,North Bay,50.18,-86.7,ON,TNB,
+947,1841,Montreal River,48.76,-86.35,ON,WGJ,
+948,992,Marathon,48.76,-86.34,ON,YSP,Marathon
+949,373,Pukaskwa (Aut),48.61,-86.29,ON,WCJ,Pukaskwa Heron Bay
+950,1881,Rideau Narrows Locks,48.61,-86.29,ON,WJM,
+951,1012,Naujaat,66.52,-86.22,NU,YUT,Repulse Bay (Naujaat)
+952,1754,Resolution Island,66.52,-86.22,NU,WRH,
+953,75,Eureka Climate,79.99,-85.93,NU,NEK,
+954,892,Cochrane,51.66,-85.9,ON,YKP,Ogoki Post
+955,1840,Midland,49.08,-85.86,ON,YEE,
+956,372,Caribou Island (Aut),47.34,-85.83,ON,WCI,Caribou Island Grand Marais
+957,1784,Centralia,47.33,-85.83,ON,YCE,
+958,405,Eureka,79.99,-85.81,NU,WEU,Eureka
+959,1705,Fd Point,79.99,-85.81,NU,WKQ,
+960,1706,Fd Point,79.99,-85.81,NU,WZJ,
+961,1697,Clyde River,68.66,-85.59,NU,WCY,
+962,944,Peawanuck,54.99,-85.44,ON,YPO,Peawanuck Winisk
+963,623,Peawanuck (Aut),54.99,-85.44,ON,WWN,Peawanuck
+964,1871,Pembroke,54.98,-85.43,ON,YTA,
+965,1690,Brevoort Island,80.0,-85.42,NU,WVX,
+966,1684,Back River,73.03,-85.15,NU,WXV,
+967,663,Arctic Bay Cs,72.99,-85.01,NU,XAT,Arctic Bay
+968,1810,Fort Frances,60.0,-85.0,ON,YAG,
+969,1811,Fort Hope,55.0,-85.0,ON,YFH,
+970,1806,Fd Point,53.82,-84.92,ON,WKZ,
+971,266,Lake Superior Provincial Park,47.72,-84.81,ON,TLS,
+972,1059,Wawa,47.97,-84.79,ON,YXZ,Wawa
+973,1851,North Bay,49.77,-84.52,ON,WYB,
+974,95,Sault Ste. Marie Airport,46.48,-84.52,ON,OSM,
+975,772,Sault Saint Marie,46.49,-84.51,ON,YAM,Sault Ste Marie SaultSte. Marie Shallows
+976,1893,Simcoe,46.49,-84.51,ON,WSI,
+977,514,Nagagami (Aut),49.75,-84.16,ON,WNZ,Nagagami Coppell
+978,1825,Iroquois,49.71,-83.69,ON,WIH,
+979,1080,Coral Harbour,64.19,-83.36,NU,YZS,Coral Harbour
+980,1699,Dewar Lakes,64.19,-83.36,NU,YUW,
+981,1788,Cochrane,47.82,-83.35,ON,YCN,
+982,91,Coral Harbour Rcs,64.19,-83.35,NU,NZS,Coral Harbour
+983,902,Sudbury,47.82,-83.35,ON,YLD,Chapleau
+984,1879,Rawson Lake,42.1,-83.08,ON,XRA,
+985,955,Windsor,42.28,-82.96,ON,YQG,Windsor Tecumseh
+986,506,Great Duck Island (Aut),45.63,-82.95,ON,WNL,Great Duck Island Meldrum Bay
+987,435,Grise Fiord,76.43,-82.91,NU,WGZ,Grise Fiord
+988,78,Grise Fiord Climate,76.42,-82.9,NU,NGC,Grise Fiord
+989,700,Harrow Cda Auto,42.03,-82.9,ON,XHA,Harrow
+990,1823,Hornepayne,42.03,-82.9,ON,YHN,
+991,1075,Barrie Island,45.88,-82.57,ON,YZE,
+992,277,Gore Bay Climate,45.89,-82.57,ON,TZE,
+993,736,Point Pelee Cs,41.95,-82.52,ON,XPT,Point Pelee Leamington
+994,1877,Port Hope ,41.95,-82.52,ON,WPV,
+995,1070,Kapuskasing,49.41,-82.47,ON,YYU,Kapuskasing
+996,1901,St Thomas,41.83,-82.47,ON,YQS,
+997,708,Kapuskasing Cda On,49.41,-82.44,ON,XKA,Kapuskasing
+998,1828,Katatota Island,49.41,-82.44,ON,WKK,
+999,773,Attawapiskat,52.93,-82.43,ON,YAT,Attawapiskat
+1000,1766,Barrie,52.93,-82.43,ON,YLS,
+1001,1876,Porquis Junction,43.0,-82.31,ON,YQJ,
+1002,1079,Sarnia,43.0,-82.31,ON,YZR,Sarnia Point Edward
+1003,279,Sarnia Climate,43.0,-82.31,ON,TZR,Sarnia Point Edward
+1004,1890,Scarborough,43.0,-82.31,ON,YTU,
+1005,1892,Simcoe,43.0,-82.31,ON,YMK,
+1006,1891,Severn River,43.0,-82.3,ON,WJS,
+1007,799,Kent,42.31,-82.08,ON,YCK,Chatham-kent
+1008,352,Erieau (Aut),42.26,-81.91,ON,WAJ,Rondeau Harbour Erieau Blenheim
+1009,1885,Royal Island,42.25,-81.9,ON,WTZ,
+1010,741,Ridgetown Rcs,42.45,-81.89,ON,XRG,Ridgetown
+1011,846,Igloolik,69.36,-81.82,NU,YGT,Igloolik
+1012,627,Cove Island (Aut),45.33,-81.73,ON,WWX,Cove Island Tobermory
+1013,1818,Gore Bay,43.77,-81.72,ON,OZR,
+1014,423,Goderich,43.76,-81.71,ON,WGD,Goderich
+1015,273,Tobermory Rcs,45.22,-81.64,ON,TTR,
+1016,1834,Kingston,44.2,-81.61,ON,WGK,
+1017,359,Killarney (Aut),45.97,-81.48,ON,WBE,Killarney Birch Island
+1018,1808,Fd Point,43.37,-81.38,ON,WUE,
+1019,267,Timmins Climate,48.57,-81.38,ON,TMS,Timmins
+1020,1858,Ostrander,44.72,-81.28,ON,YTB,
+1021,1013,Hall Beach,68.78,-81.24,NU,YUX,Hall Beach
+1022,756,Hall Beach Climate,68.78,-81.24,NU,XUX,Hall Beach
+1023,1723,Harding River,68.78,-81.24,NU,WHG,
+1024,1056,London,43.03,-81.15,ON,YXU,London
+1025,574,London Cs,43.03,-81.15,ON,WSN,London
+1026,1837,Manitouwadge,43.03,-81.15,ON,YMG,
+1027,1838,Manitowaning,43.03,-81.15,ON,YEM,
+1028,1031,Wiarton-Keppel,44.75,-81.11,ON,YYV,
+1029,1946,Winisk,44.74,-81.11,ON,YWN,
+1030,1790,Cornwall,49.11,-81.02,ON,YCC,
+1031,983,Sudbury,46.63,-80.8,ON,YSB,Sudbury Skead
+1032,272,Sudbury Climate,46.63,-80.8,ON,TSB,
+1033,490,Mount Forest,43.99,-80.75,ON,WLS,Mount Forest
+1034,1861,Ottawa,42.93,-80.75,ON,YAA,
+1035,1905,Terrace Bay,43.13,-80.75,ON,YTJ,
+1036,1847,Mount Forest,51.27,-80.65,ON,YMN,
+1037,1846,Moosonee,51.29,-80.62,ON,WSM,
+1038,769,Moosonee Rcs,51.29,-80.62,ON,XZC,Moosonee
+1039,920,Moosonee,51.29,-80.61,ON,YMO,Moosonee
+1040,1839,Marie Louise Lake,47.66,-80.6,ON,WLK,
+1041,682,Delhi Cs,42.87,-80.55,ON,XDI,Delhi
+1042,1796,Dryden,42.87,-80.55,ON,XDR,
+1043,1807,Fd Point,43.65,-80.42,ON,WUI,
+1044,877,Waterloo,43.46,-80.38,ON,YKF,Kitchener Kossuth
+1045,1941,Webequie,43.46,-80.38,ON,YWP,
+1046,500,Western Island (Aut),45.03,-80.37,ON,WMZ,Western Island Christian Island
+1047,1945,Winchester,45.03,-80.37,ON,TWN,
+1048,259,Brantford Airport,43.14,-80.33,ON,TBF,
+1049,1895,Slate Island,42.85,-80.27,ON,WFI,
+1050,1894,Slate Island,42.85,-80.27,ON,YSS,
+1051,374,Collingwood,44.51,-80.22,ON,WCO,Collingwood
+1052,1791,Cornwall,44.5,-80.22,ON,XCW,
+1053,263,Guelph Turfgrass,43.55,-80.21,ON,TGT,Guelph University of Guelph
+1054,733,Parry Sound Ccg,45.34,-80.04,ON,XPC,Parry Sound
+1055,1870,Pelee Island,45.34,-80.04,ON,YPT,
+1056,1940,Weaverville,44.52,-80.02,ON,GEO,
+1057,710,Kirkland Lake Cs,48.15,-80.01,ON,XKI,
+1058,1980,Fort Montmorency Rc,61.0,-80.0,QC,QFM,
+1059,860,Hamilton,43.17,-79.94,ON,YHM,Hamilton   Mount Hope Ancaster
+1060,1783,Cat Lake,44.27,-79.93,ON,YAC,
+1061,1843,Moose Creek,44.68,-79.93,ON,QCK,
+1062,1778,Britt,44.27,-79.91,ON,WBI,
+1063,704,Hamilton Rbg Cs,43.29,-79.91,ON,XHM,Hamilton   Mount Hope Dundas
+1064,1821,Hazelwood Lake,43.29,-79.91,ON,WHZ,
+1065,784,Toronto,44.27,-79.91,ON,YBN,Borden Colwell
+1066,276,Earlton Climate,47.7,-79.85,ON,TXR,
+1067,1802,Egbert,47.7,-79.85,ON,WET,
+1068,1803,Ekwan River,47.7,-79.85,ON,WED,
+1069,1054,Timiskaming,47.7,-79.85,ON,YXR,Earlton
+1070,617,Burlington Pier,43.3,-79.8,ON,WWB,Burlington Piers Hamilton
+1071,1782,Carp,43.32,-79.8,ON,WGV,
+1072,689,Egbert Cs,44.23,-79.78,ON,XET,Alliston
+1073,1804,Elliot Lake,44.23,-79.78,ON,YEL,
+1074,1805,Exeter,44.23,-79.78,ON,WSO,
+1075,1920,Toronto,44.23,-79.78,ON,STD,
+1076,1919,Toronto,44.23,-79.78,ON,WTO,
+1077,1822,Hearst,43.27,-79.77,ON,YHF,
+1078,1820,Hanover,47.43,-79.63,ON,YHS,
+1079,1074,Missussauga,43.68,-79.63,ON,YYZ,Toronto Centennial Park
+1080,1916,Toronto,43.68,-79.63,ON,DOY,
+1081,1917,Toronto,43.68,-79.63,ON,DOW,
+1082,1927,Toronto,43.68,-79.63,ON,CYT,
+1083,1926,Toronto,43.68,-79.63,ON,TRF,
+1084,93,King City North,43.96,-79.57,ON,OKN,
+1085,1768,Beausoleil,44.49,-79.56,ON,WPB,
+1086,666,Barrie-Oro,44.48,-79.55,ON,XBI,Barrie-Oro Edgar
+1087,1769,Belle River,44.48,-79.55,ON,WDD,
+1088,1780,Burlington,45.27,-79.55,ON,HDR,
+1089,1932,Uplands,43.8,-79.55,ON,CYU,
+1090,1939,Wawa,48.15,-79.52,ON,WXZ,
+1091,1949,Amqui,43.75,-79.48,QC,WZS,
+1092,1857,Onakawana,44.0,-79.47,ON,WOQ,
+1093,1912,Toronto,43.78,-79.47,ON,WQE,
+1094,1921,Toronto,43.78,-79.47,ON,IWT,
+1095,1922,Toronto,43.78,-79.47,ON,WTR,
+1096,1923,Toronto,43.78,-79.47,ON,WOW,
+1097,1924,Toronto,43.78,-79.47,ON,WYZ,
+1098,2037,Ruisseau Cranberry,48.63,-79.46,QC,MRY,
+1099,1854,North Bay,46.32,-79.45,ON,WNN,
+1100,1931,Trowbridge,43.83,-79.43,ON,WAB,
+1101,1061,North Bay,46.36,-79.42,ON,YYB,North Bay Trout Mills
+1102,278,North Bay Airport,46.37,-79.42,ON,TZN,
+1103,1856,Oliphant,46.36,-79.42,ON,WDF,
+1104,261,Beatrice Climate,45.14,-79.4,ON,TBT,Beatrice Utterson
+1105,1006,Toronto,43.63,-79.4,ON,YTZ,Toronto Island Mugg's Island
+1106,753,Toronto City,43.67,-79.4,ON,XTO,Toronto The Annex
+1107,1913,Toronto,43.63,-79.4,ON,YZD,
+1108,1918,Toronto,43.65,-79.4,ON,DOX,
+1109,1928,Toronto,43.67,-79.4,ON,WHD,
+1110,1929,Toronto,43.67,-79.4,ON,WWH,
+1111,1930,Trenton,43.67,-79.4,ON,XTR,
+1112,1938,Waterloo,43.18,-79.4,ON,XKF,
+1113,896,Buttonville,43.86,-79.37,ON,YKZ,Toronto Buttonville
+1114,1915,Toronto,43.86,-79.37,ON,DOZ,
+1115,759,Vineland Station Rcs,43.18,-79.33,ON,XYN,
+1116,275,Welland-Pelham,42.97,-79.32,ON,TWL,Welland Pelham Wainfleet
+1117,950,Muskoka,44.97,-79.3,ON,YQA,Muskoka Muskoka Falls
+1118,1815,Goderich,56.54,-79.26,ON,YGD,
+1119,87,Sanikiluaq,56.54,-79.26,NU,NSQ,
+1120,527,Port Colborne (Aut),42.87,-79.25,ON,WPC,Port Colborne
+1121,987,Sanikiluaq,56.54,-79.25,NU,YSK,Sanikiluaq
+1122,1955,Beauharnois,47.55,-79.24,QC,WBH,
+1123,1903,Stirling,43.17,-79.23,ON,CYQ,
+1124,426,Lagoon City,44.55,-79.22,ON,WGL,Lagoon City
+1125,628,Port Weller (Aut),43.25,-79.22,ON,WWZ,Port Weller
+1126,990,Niagara-On-The-Lake,43.19,-79.17,ON,YSN,St Catharines Port Weller
+1127,1902,Stirling,43.19,-79.17,ON,YQC,
+1128,274,Uxbridge West,44.1,-79.16,ON,TUX,
+1129,1937,Wasaga Beach,44.1,-79.16,ON,WDN,
+1130,357,Barrage Temiscamingue,46.71,-79.1,QC,WBA,
+1131,601,Rouyn,48.25,-79.03,QC,WUY,Rouyn Rouyn-Noranda
+1132,565,Rowley Island,69.08,-79.03,NU,WRX,Rowley Island
+1133,1860,Ottawa,43.92,-78.9,ON,UUP,
+1134,1859,Ottawa,43.92,-78.88,ON,WCG,
+1135,1015,Rouyn-Noranda,48.21,-78.84,QC,YUY,Rouyn McWatters
+1136,2070,Bethune,53.01,-78.83,SK,XBE,
+1137,1441,Cross Lake,53.01,-78.83,MB,YCR,
+1138,926,Wemindji,53.01,-78.83,QC,YNC,City Centre
+1139,2069,Beartooth Island,51.47,-78.76,SK,WTF,
+1140,893,Waskaganish,51.47,-78.76,QC,YKQ,Waskaganish
+1141,1976,Fd Point,52.23,-78.52,QC,WLR,
+1142,945,Peterborough,44.23,-78.36,ON,YPQ,Peterborough
+1143,270,Peterborough Trent U,44.35,-78.3,ON,TPQ,Peterborough
+1144,84,Cape Liverpool,73.67,-78.29,NU,NPL,
+1145,268,Algonquin Park East Gate,45.54,-78.26,ON,TNK,
+1146,1789,Cornwall,43.95,-78.17,ON,TCW,
+1147,886,Akulivik,60.82,-78.15,QC,YKO,City Centre
+1148,501,Cobourg (Aut),43.96,-78.15,ON,WNC,Cobourg
+1149,60,Inukjuak,58.47,-78.08,QC,MJK,
+1150,942,Inukjuak,58.47,-78.08,QC,YPH,Inukjuak (Port Harrison) Inoucdjouac
+1151,1994,Kangiqsualujjuaq,58.47,-78.08,QC,YKB,
+1152,869,Pond Inlet,72.69,-77.97,NU,YIO,Pond Inlet
+1153,1750,Qikiqtarjuaq,72.69,-77.97,NU,YVM,
+1154,74,Pond Inlet Climate,72.69,-77.96,NU,NDT,
+1155,866,Ivujivik,62.42,-77.93,QC,YIK,Ivujivik
+1156,556,Bancroft Auto,45.07,-77.88,ON,WRK,Bancroft
+1157,1767,Battle Island,45.07,-77.88,ON,WMF,
+1158,932,Matagami,49.76,-77.8,QC,YNM,Matagami
+1159,50,Matagami,49.76,-77.79,QC,GMG,
+1160,52,Val-D'Or,48.06,-77.79,QC,GYO,
+1161,1022,Val-D'Or,48.05,-77.78,QC,YYO,Wynward Wynyard
+1162,2067,Valleyfield,48.05,-77.78,QC,WVE,
+1163,2068,Varennes,48.05,-77.78,QC,WHM,
+1164,849,Kuujjuarapik,55.28,-77.77,QC,YGW,Kuujjuarapik (1986- ) Post-de-la-Baleine (1962-1985) Post-de-la-Baleine (1961) Great Whale River ( -1960)
+1165,839,Baie-James,53.63,-77.7,QC,YGL,La Grande Riviere Chisasibi
+1166,2000,La Tuque,53.63,-77.7,QC,YLQ,
+1167,53,Kuujjuarapik,55.37,-77.63,QC,MFJ,
+1168,1998,La Grande Iii Airport,55.37,-77.57,QC,YAD,
+1169,1934,Upsala,44.12,-77.53,ON,WIM,
+1170,1933,Upsala,44.12,-77.52,ON,WDV,
+1171,1787,Clear Creek,46.05,-77.37,ON,YQO,
+1172,1004,Mountain View,44.07,-77.34,ON,YTR,Trenton Albury
+1173,1033,Petawawa Awos,45.95,-77.32,ON,YWA,Petawawa
+1174,269,Pembroke,45.86,-77.25,ON,TPM,
+1175,2046,Sept Iles,48.4,-77.25,QC,YZV,
+1176,547,Point Petre (Aut),43.84,-77.15,ON,WQP,Point Petre Bloomfield
+1177,1878,Port Stanley Buoy,43.83,-77.15,ON,WPP,
+1178,837,Kingston,44.23,-76.6,ON,YGK,Kingston
+1179,264,Kingston Climate,44.22,-76.6,ON,TKG,
+1180,1835,Kirkland Lake,44.22,-76.6,ON,YKX,
+1181,71,Cape Dorset Climate,64.23,-76.53,NU,NCD,
+1182,1693,Cape Dyer,64.23,-76.53,NU,YVN,
+1183,998,Cape Dorset,64.23,-76.52,NU,YTE,Cape Dorset
+1184,1694,Cape Hooper,64.23,-76.52,NU,WUP,
+1185,922,Umiujaq,56.54,-76.52,QC,YMU,Umiujaq
+1186,2022,Nitchequon,51.69,-76.14,QC,YNI,
+1187,1868,Ottawa,45.32,-76.02,ON,YRO,
+1188,1785,Chalk River,45.32,-76.0,ON,CYP,
+1189,495,Maniwaki Airport,46.27,-75.99,QC,WMJ,Maniwaki Messines
+1190,2013,Manuan Lake,46.27,-75.99,QC,YLM,
+1191,425,Grenadier Island,44.46,-75.86,ON,WGH,Grenadier Island Schermerhorn Landing
+1192,260,Brockville Climate,44.63,-75.75,ON,TBO,Brockville
+1193,1862,Ottawa,45.38,-75.72,ON,YHQ,
+1194,1867,Ottawa,45.58,-75.72,ON,YDH,
+1195,728,Ottawa Cda Rcs,45.38,-75.71,ON,XOA,Ottawa
+1196,1866,Ottawa,45.43,-75.7,ON,WOZ,
+1197,1865,Ottawa,45.32,-75.68,ON,YRP,
+1198,935,Ottawa,45.32,-75.67,ON,YOW,Ottawa Leitrim
+1199,55,Salluit,62.18,-75.67,QC,MFX,
+1200,1077,Salluit,62.18,-75.67,QC,YZG,Salluit
+1201,702,High Falls,45.84,-75.65,QC,XHF,High Falls Bowman
+1202,1869,Owen Sound,45.37,-75.65,ON,YOS,
+1203,709,Kemptville Cs,45.01,-75.64,ON,XKE,Kemptville
+1204,1830,Killaloe,45.0,-75.63,ON,YXI,
+1205,929,Gatineau,45.52,-75.56,QC,YND,Ottawa Templeton
+1206,2024,Parent,45.52,-75.56,QC,YPP,
+1207,1947,Confederation Bridg,45.05,-75.34,PE,XBP,
+1208,1743,Malloch Dome,68.93,-75.28,NU,WCN,
+1209,2010,Manicouagan,45.63,-75.2,QC,YMV,
+1210,1742,Mackar Inlet,68.9,-75.14,NU,WUU,
+1211,2049,St Celestin,45.8,-75.07,QC,MSC,
+1212,1708,Fd Point,89.0,-75.0,NU,WFA,
+1213,1981,Fox River,48.0,-75.0,QC,YFQ,
+1214,595,Chapais,49.82,-74.98,QC,WUK,Chapais
+1215,262,Moose Creek Wells,45.25,-74.96,ON,TCK,Moose Creek
+1216,1845,Moosonee,45.25,-74.96,ON,WZC,
+1217,1792,Cyprus Lake,45.03,-74.68,ON,XCY,
+1218,1793,Deer Lake,45.02,-74.68,ON,YVZ,
+1219,532,Parent,47.92,-74.62,QC,WPK,Parent
+1220,2026,Pointe Claveau,47.92,-74.62,QC,WQV,
+1221,467,St-Jovite,46.08,-74.56,QC,WJT,St-Jovite Saint-Jovite
+1222,46,Chibougamau-Chapais,49.78,-74.53,QC,GCH,
+1223,1969,Commissaire,49.78,-74.53,QC,MCM,
+1224,921,Fanacamp,49.77,-74.53,QC,YMT,Chibougamau Chibougamou
+1225,2057,Ste Michel De Napierville,45.3,-74.3,QC,MSX,
+1226,1884,Royal Island,45.48,-74.29,ON,WTX,
+1227,369,St-Anicet 1,45.12,-74.29,QC,WBZ,St Anicet Saint-Anicet
+1228,63,Saint-Michel-Des-Saints,46.82,-74.09,QC,MMY,Saint Michel des Saints Saint-Michel-des-Saints
+1229,924,Mirabel,45.68,-74.04,QC,YMX,Montreal Mirabel
+1230,610,Ste-Anne-De-Bellevue 1,45.44,-73.93,QC,WYQ,Pointe au Pere Pointe-au-P√§re
+1231,2060,Sutton Junction (Bedford-Sutton),45.43,-73.93,QC,YXF,
+1232,1956,Bonaventure,45.32,-73.91,QC,YVB,
+1233,1990,Ile Charron,45.17,-73.87,QC,WVZ,
+1234,2033,Riviere Du Loup,46.02,-73.82,QC,YRI,
+1235,2018,Montreal,45.48,-73.77,QC,WAO,
+1236,2051,St Henri,45.12,-73.77,QC,WIA,
+1237,2032,Rimouski,45.47,-73.75,QC,YXK,
+1238,1975,Ecole De Voile De Lachine,45.47,-73.74,QC,WEN,
+1239,1010,Montreal,45.47,-73.74,QC,YUL,Montreal Dorval
+1240,591,Montreal/Pierre Elliott Trudeau Intl,45.47,-73.74,QC,WTQ,Montreal Dorval
+1241,1966,Charlevoix,45.52,-73.72,QC,YML,
+1242,1977,Fd Point,45.43,-73.7,QC,WUF,
+1243,771,James Bay,53.75,-73.68,QC,YAH,La Grande IV
+1244,44,La Grande Iv,53.75,-73.68,QC,GAH,
+1245,2039,Sainte-Anne-Des-Monts,45.12,-73.68,QC,YSZ,
+1246,454,Ste-Clotilde,45.17,-73.68,QC,WIT,Ste-Clothilde Sainte-Clotilde-de-Ch√âteauguay
+1247,2061,Sutton Junction (Bedford-Sutton),45.17,-73.68,QC,WXF,
+1248,58,Parc National Des Pingualuit,61.31,-73.67,QC,MIN,Parc National des Pingualuit
+1249,2025,Piedmont,61.31,-73.67,QC,MPD,
+1250,2021,Nemiscau,45.5,-73.62,QC,YHH,
+1251,585,Mctavish,45.5,-73.58,QC,WTA,Mctavish Montreal
+1252,1974,Dolbeau St Methode,45.42,-73.57,QC,YDO,
+1253,2052,St Jean,45.32,-73.57,QC,YJN,
+1254,2020,Montreal-Est,45.48,-73.55,QC,WPQ,
+1255,2055,St Polycarpe,45.5,-73.52,QC,MPL,
+1256,407,L'Assomption,45.81,-73.43,QC,WEW,East Baltic
+1257,861,Longueuil,45.52,-73.42,QC,YHU,Montreal Lafl√§che
+1258,2019,Montreal,45.52,-73.42,QC,WUL,
+1259,395,Chamouchouane,49.28,-73.36,QC,WEE,Chamouchouane Didyme
+1260,457,L 'Acadie,45.29,-73.35,QC,WIZ,L'Acadie Saint-Jacques-le-Mineur
+1261,2005,L'Artifice,45.29,-73.35,QC,MLA,
+1262,2054,St Polycarpe,45.33,-73.3,QC,QPL,
+1263,2038,Russeltown,45.41,-73.05,QC,MRU,
+1264,2059,Ste-Anne-De-Bellevue,45.22,-73.02,QC,WVQ,
+1265,2056,St Sabine,45.87,-73.0,QC,MSB,
+1266,65,Riviere Aux Feuilles,57.91,-72.98,QC,MRF,Riviere Aux Feuille
+1267,364,Lac Saint-Pierre,46.18,-72.92,QC,WBS,Lac Saint Pierre Louiseville
+1268,2004,Landrienne,46.18,-72.92,QC,XLA,
+1269,418,Frelighsburg,45.04,-72.86,QC,WFQ,Frelighsburg
+1270,2002,Lac Eon,47.41,-72.79,QC,YEO,
+1271,56,Granby,45.37,-72.77,QC,MGB,Granby
+1272,1961,Caniapiscau Airport,45.29,-72.74,QC,YAI,
+1273,746,Shawinigan,46.56,-72.73,QC,XSH,Shawinigan
+1274,51,Trois Rivieres,46.37,-72.68,QC,GRQ,
+1275,980,Trois-Rivieres,46.35,-72.68,QC,YRQ,Trois Rivieres Trois-Rivieres Sainte-Catherine
+1276,510,Nicolet,46.23,-72.66,QC,WNQ,Nicolet
+1277,2064,Val D'Or,46.38,-72.62,QC,YVO,
+1278,2062,Trois Rivieres,45.15,-72.58,QC,WRQ,
+1279,517,Normandin,48.84,-72.55,QC,WOD,Normandin
+1280,66,Saint-Germain-De-Grantham,45.83,-72.54,QC,MSI,Saint Germain de Grantham Saint-Germain-de-Grantham
+1281,594,Trois-Rivieres,46.35,-72.52,QC,WTY,Trois Rivieres Sainte-Ang√§le-de-Laval
+1282,2063,Val D'Irene,46.35,-72.52,QC,XAM,
+1283,385,La Tuque,47.24,-72.47,QC,WDQ,La Tuque
+1284,2053,St Lambert,48.65,-72.45,QC,WLH,
+1285,1973,Covey Hill,47.99,-72.3,QC,MCW,
+1286,976,Lac-Saint-Jean,48.52,-72.27,QC,YRJ,Roberval
+1287,593,Lac Memphremagog,45.27,-72.17,QC,WTT,Lac Memphremagog Magog
+1288,62,Lemieux,46.3,-72.06,QC,MLU,Lemieux
+1289,442,Deschambault,46.69,-71.97,QC,WHQ,Deschambault Saint-Gilbert
+1290,878,Kangiqusujuaq,61.59,-71.93,QC,YKG,City Centre
+1291,544,Lennoxville,45.37,-71.82,QC,WQH,Lennoxville Sherbrooke
+1292,456,Mistook,48.6,-71.72,QC,WIX,Mistook Saint-Coeur-de-Marie
+1293,2048,St Augustin,45.44,-71.69,QC,YIF,
+1294,984,Westbury,45.44,-71.69,QC,YSC,Sherbrooke Cookshire-Eaton
+1295,2050,St Denis De Kamouraska,46.73,-71.5,QC,MSD,
+1296,936,Valcartier A,46.9,-71.5,QC,YOY,Valcartier Saint-Gabriel-de-Valcartier
+1297,951,Sainte-Foy,46.79,-71.39,QC,YQB,L'Ancienne-Lorette
+1298,2006,Lauzon,46.8,-71.38,QC,WLU,
+1299,2011,Maniwaki,46.8,-71.38,QC,WMW,
+1300,540,Quebec/Jean Lesage Intl,46.8,-71.38,QC,WQB,Quebec L'Ancienne-Lorette
+1301,1740,Longstaff Bluff,81.82,-71.3,NU,YUV,
+1302,458,Ste-Foy (U. Laval),46.78,-71.29,QC,WJB,Ste Foy Sainte-Foy
+1303,67,Thetford Mines Rcs,46.05,-71.27,QC,MTH,Thetford Mines Thetford-Mines
+1304,528,L'Etape,47.56,-71.23,QC,WPD,L'Etape   Parc Des Laurentides Saint-Ferreol-les-Neiges
+1305,670,Beauport,46.84,-71.2,QC,XBO,Beauport
+1306,1957,Border,46.84,-71.2,QC,WTB,
+1307,387,Chute-Des-Passes,49.84,-71.17,QC,WDT,Chute-des-Passes
+1308,1971,Corossol,49.84,-71.17,QC,WGA,
+1309,599,Dewar Lakes,68.65,-71.17,NU,WUW,Dewar Lakes Mid Baffin
+1310,2009,Lennoxville,46.83,-71.16,QC,WXX,
+1311,54,Foret Montmorency Rcs,47.32,-71.15,QC,MFM,Fort Montmorency Saint-Ferreol-les-Neiges
+1312,465,Jonquiere,48.43,-71.14,QC,WJO,Jonquiere Arvida
+1313,1995,Kangiqsujuaq,48.43,-71.14,QC,YMZ,
+1314,2001,Lac Castor,48.31,-71.13,QC,WMB,
+1315,715,Laterri√Àre,48.31,-71.13,QC,XLT,La Terriere Saguenay
+1316,378,Lac Benoit,51.53,-71.11,QC,WDE,Lac Benoit
+1317,1970,Corossol,48.52,-71.05,QC,WCR,
+1318,631,Onatchiway,48.89,-71.03,QC,WXC,Onatchiway Saint-David-de-Falardeau
+1319,474,Bonnard 1,50.73,-71.01,QC,WKD,Bonnard
+1320,779,Saguenay,48.33,-71.0,QC,YBG,Bagotville La Baie
+1321,68,Nantes,45.61,-70.93,QC,MUS,
+1322,600,La Baie,48.3,-70.92,QC,WUX,La Baie
+1323,404,Ile D'Orleans,47.0,-70.81,QC,WER,Ile D'Orleans Beaupr√á
+1324,1991,Indian House Lake,47.0,-70.81,QC,YIH,
+1325,444,Beauceville,46.21,-70.79,QC,WHY,Mont-Orford Eastman
+1326,590,Cap-Tourmente,47.08,-70.78,QC,WTN,Cap-Tourmente Saint-Ferreol-les-Neiges
+1327,453,Charlevoix (Mrc),47.28,-70.64,QC,WIS,Ottawa ByWard Market
+1328,1967,Chevery,47.28,-70.64,QC,YHR,
+1329,447,Ile Aux Grues,47.07,-70.53,QC,WIG,?le-Aux-Grues
+1330,384,Manouane Est,50.66,-70.53,QC,WDP,Manouane Est
+1331,2058,Ste-Agathe-Des-Mont,47.28,-70.17,QC,WOH,
+1332,551,Pointe Claveau,48.26,-70.11,QC,WQY,Hanbury River
+1333,578,La Pocatiere,47.35,-70.03,QC,WST,La Pocatiere La Pocati√§re
+1334,1709,Fd Point,85.0,-70.0,NU,WFC,
+1335,1997,Kuujjuaq,60.02,-70.0,QC,YVP,
+1336,1002,Kativik,58.67,-69.96,QC,YTQ,Tasiujaq
+1337,1739,Longstaff Bluff,62.83,-69.9,NU,WUV,
+1338,901,Kimmirut,62.85,-69.88,NU,YLC,Kimmirut (Lake Harbour)
+1339,1962,Cap Rouge,54.83,-69.87,QC,WQM,
+1340,1989,Ile Bicquette,59.33,-69.77,QC,WQO,
+1341,542,Pointe De L'Islet,48.14,-69.72,QC,WQD,Pointe De L'islet Tadoussac
+1342,852,Quaqtaq,61.05,-69.62,QC,YHA,Quaqtaq
+1343,897,Aupaluk,59.3,-69.6,QC,YLA,City Centre
+1344,2036,Rougemont,47.76,-69.58,QC,MRG,
+1345,350,Ile Rouge,48.07,-69.56,QC,WAF,Ile Rouge Baie-Sainte-Catherine
+1346,1992,Inukjuak (Port Harrison),48.07,-69.56,QC,WPH,
+1347,1965,Cartierville,61.08,-69.55,QC,YCV,
+1348,504,Riviere-Du-Loup,47.81,-69.55,QC,WNH,Riviere Du Loup Rivi√§re-du-Loup
+1349,2035,Roquemaure,47.81,-69.55,QC,WGQ,
+1350,57,Grandes Bergeronnes,48.27,-69.54,QC,MGZ,
+1351,1733,Kugaaruk (Pelly Bay) (West Simpson),68.65,-69.13,NU,WRF,
+1352,828,Iqaluit,63.76,-68.56,NU,YFB,Iqaluit Apex
+1353,1728,Jenny Lind Island,63.76,-68.56,NU,YUQ,
+1354,693,Iqaluit Climate,63.75,-68.54,NU,XFB,Iqaluit Apex
+1355,1727,Isachsen,63.75,-68.54,NU,YIC,
+1356,808,Clyde River,70.49,-68.52,NU,YCY,Clyde River
+1357,1698,Croker River,70.49,-68.52,NU,WXR,
+1358,2034,Riviere Rouge,48.48,-68.5,QC,YFJ,
+1359,1979,Forestville,48.52,-68.47,QC,YFE,
+1360,1024,Kuujjuaq,58.1,-68.43,QC,YYP,
+1361,40,Edmundston,47.42,-68.32,NB,ERM,Edmunston Edmundston
+1362,1073,Mont-Joli,48.61,-68.21,QC,YYY,Mont Joli Mont-Joli
+1363,2015,Montreal,48.61,-68.21,QC,WMN,
+1364,45,Baie-Comeau,49.14,-68.2,QC,GBC,
+1365,778,Baie-Comeau,49.13,-68.2,QC,YBC,Baie Comeau Pointe-Lebel
+1366,1952,Barrage Temiscamingue,49.13,-68.2,QC,WRL,
+1367,1953,Beauceville,49.13,-68.2,QC,WHV,
+1368,1954,Beauharnois,49.13,-68.2,QC,MBR,
+1369,59,Mont-Joli,48.61,-68.2,QC,MJI,
+1370,419,Baie-Comeau,49.26,-68.15,QC,WFW,Baie Comeau Baie-Comeau
+1371,1951,Barrage Angliers,49.26,-68.15,QC,WRC,
+1372,1515,Argentia,47.16,-67.84,NF,WAR,
+1373,2066,Valcartier,48.48,-67.6,QC,WQG,
+1374,43,Woodstock Newbridge,46.15,-67.54,NB,EWD,
+1375,2029,Port Menier,49.32,-67.38,QC,YPN,
+1376,588,Pointe-Des-Monts,49.32,-67.37,QC,WTG,Pointe Des Monts Baie-Trinit√á
+1377,1512,Alexis River,45.2,-67.27,NF,WXW,
+1378,47,Causapscal Airport,48.31,-67.25,QC,GCL,
+1379,577,St Stephen,45.21,-67.25,NB,WSS,St Stephen Calais
+1380,1040,Wabush,52.92,-66.86,NF,YWK,Wabush Lake
+1381,885,Schefferville,54.81,-66.81,QC,YKL,Schefferville Knob Lake
+1382,2044,Sept Iles,54.81,-66.81,QC,XZV,
+1383,699,Grand Manan Sar Cs,44.71,-66.8,NB,XGM,Grand Manan
+1384,1503,Mechanic Settlement,44.71,-66.8,NB,WMK,
+1385,49,Schefferville Cote-Nord,54.8,-66.8,QC,GKM,
+1386,645,Fredericton Aquatic Centre C/S,45.96,-66.65,NB,WZF,Fredericton North Devon
+1387,1502,Gannet Rock,45.96,-66.65,NB,WAK,
+1388,1972,Cote St Catherine,50.18,-66.63,QC,WCS,
+1389,13,Fredericton Cda Cs,45.92,-66.61,NB,AFC,Fredericton North Devon
+1390,829,Fredericton,45.87,-66.54,NB,YFC,Fredericton Oromocto
+1391,807,Oromoncto,45.84,-66.45,NB,YCX,Gagetown Oromocto
+1392,529,Point Lepreau Cs,45.07,-66.45,NB,WPE,Point Lepreau Pocologan
+1393,1509,St John,45.07,-66.45,NB,WOS,
+1394,452,Pointe Noire Cs,50.16,-66.43,QC,WIP,Pointe Noire Sept-?les
+1395,571,Cap-Chat,49.06,-66.39,QC,WSG,Cap Chat Cap-Chat
+1396,613,Brier Island,44.29,-66.34,NS,WYU,Sydney
+1397,2047,Sherbrooke,50.22,-66.25,QC,WSC,
+1398,770,Sept-Iles,50.22,-66.24,QC,XZY,
+1399,1627,Aulavik National Park,43.83,-66.09,NT,WSQ,
+1400,1628,Byron Bay,43.83,-66.09,NT,YUK,
+1401,958,Yarmouth,43.83,-66.09,NS,YQI,Yarmouth
+1402,39,Yarmouth Rcs,43.83,-66.09,NS,EQI,
+1403,10,Doaktown Auto Rcs,46.59,-66.01,NB,ADN,
+1404,912,Kangiqsualujjuaq,58.71,-65.99,QC,YLU,Kangiksualujjuaq Kangiqsualujjuaq Georges River
+1405,986,Saint John,45.32,-65.89,NB,YSJ,St John Saint John Loch Lomond Rothesay
+1406,1505,Miramichi,45.32,-65.88,NB,YCH,
+1407,61,New Richmond East,48.16,-65.84,QC,MJN,
+1408,1604,Fourchu Head,44.55,-65.79,NS,WRW,
+1409,1500,Chipman,47.63,-65.74,NB,XNC,
+1410,636,Pangnirtung,66.14,-65.71,NU,WXP,Pangnirtung
+1411,1051,Pangnirtung,66.14,-65.71,NU,YXP,Pangnirtung
+1412,1552,Holyrood,52.27,-65.68,NF,WTP,
+1413,32,Red Pines,47.44,-65.6,NB,ARP,
+1414,1510,St Leonard,47.44,-65.6,NB,WIY,
+1415,1516,Argentia,45.74,-65.53,NF,YAR,
+1416,34,Sussex Four Corners,45.74,-65.53,NB,ASF,
+1417,7,Baccaro Pt,43.45,-65.47,NS,ACP,
+1418,1595,Bedford,43.45,-65.47,NS,WAZ,
+1419,8,Miramichi Rcs,47.01,-65.47,NB,ACQ,
+1420,516,New Carlisle 1,48.01,-65.33,QC,WOC,New Carlisle
+1421,1572,St Anthony,53.83,-65.33,NF,XES,
+1422,570,Cap-Madeleine,49.25,-65.32,QC,WSF,Cap Madeleine Sainte-Madeleine-de-la-Rivi√§re-Madeleine
+1423,1964,Cape Whittle,49.25,-65.32,QC,YWQ,
+1424,42,Shelburne Sandy Point,43.75,-65.31,NS,ESB,
+1425,476,Kejimkujik 1,44.43,-65.2,NS,WKG,Kejimkujik Caledonia
+1426,1612,Liverpool,44.43,-65.19,NS,YAU,
+1427,25,Mechanic Settlement,45.69,-65.17,NB,AMS,Mechanic Settlement Elgin
+1428,1506,Miscou Island,45.69,-65.17,NB,YMC,
+1429,1719,Guzman Beach,82.5,-65.08,NU,WXE,
+1430,1504,Miramichi,46.78,-65.02,NB,WCQ,
+1431,23,Kouchibouguac,46.79,-65.01,NB,AKC,Kouchibouguac Saint-Louis de Kent
+1432,1088,Greenwood,44.98,-64.92,NS,YZX,Greenwood
+1433,1760,Yankee,61.3,-64.88,NU,WPT,
+1434,1613,Machias Seal Island,44.23,-64.86,NS,WXT,
+1435,1734,Kugaaruk (Pelly Bay) (West Simpson),60.42,-64.85,NU,WKE,
+1436,637,Bas Caraquet,47.8,-64.83,NB,WXS,Bas Caraquet
+1437,5,Bouctouche,46.43,-64.77,NB,ABT,Buctouche Bouctouche
+1438,963,Moncton,46.11,-64.68,NB,YQM,Moncton Lakeburn
+1439,619,Western Head,43.99,-64.66,NS,WWE,Western Head Liverpool
+1440,1756,Rowley Island,61.58,-64.65,NU,YUG,
+1441,1978,Fd Point,49.12,-64.62,QC,WUH,
+1442,1741,Lupin,62.51,-64.52,NU,YWO,
+1443,1508,Point Escuminac,48.02,-64.5,NB,WPJ,
+1444,494,Miscou Island (Aut),48.01,-64.49,NB,WMI,Miscou Island Miscou Centre
+1445,48,Gaspe Airport,48.78,-64.48,QC,GGA,
+1446,840,Grindstone,48.78,-64.48,QC,YGP,Gaspe Douglastown
+1447,712,Kentville Cda,45.07,-64.48,NS,XKT,Kentville
+1448,1588,Winterland,53.63,-64.48,NF,XWT,
+1449,41,Atlantic Eer (New Ross Eru),44.73,-64.46,NS,ERU,
+1450,1982,Gagnon,49.02,-64.4,QC,YGA,
+1451,30,Parrsboro,45.41,-64.35,NS,APR,
+1452,1616,Rowan Gorilla Iii,45.41,-64.35,NS,WXO,
+1453,566,Cap-D'Espoir,48.42,-64.32,QC,WRZ,Cap D'Espoir Perce
+1454,713,Lunenburg,44.36,-64.3,NS,XLB,Lunenberg Lunenburg
+1455,1614,Marion Bridge,44.36,-64.3,NS,XMB,
+1456,2030,Puvirnituq ,49.84,-64.29,QC,MQP,
+1457,1594,Barrington,45.85,-64.27,NS,WWY,
+1458,727,Nappan Auto,45.76,-64.24,NS,XNP,Nappan Chignecto
+1459,1615,Parrsboro,45.76,-64.24,NS,CC4,
+1460,365,Longue-Pointe-De-Mingan,50.27,-64.23,QC,WBT,Longue Pointe de Mingan Longue-Pointe-de-Mingan
+1461,549,Ile Aux Perroquets,50.22,-64.21,QC,WQR,Ile Aux Perroquets Longue-Pointe-de-Mingan
+1462,515,Brevoort Island,63.34,-64.15,NU,WOB,Brevoort Island
+1463,1691,Brown River,63.34,-64.15,NU,WBR,
+1464,1590,Amherst,53.56,-64.11,NS,WAH,
+1465,1536,Comfort Cove,53.56,-64.11,NF,YHW,
+1466,1537,Conne River,53.55,-64.1,NF,WFY,
+1467,14,Churchill Falls,53.56,-64.09,NF,AFL,
+1468,1020,Qikiqtarjuaq,67.55,-64.03,NU,YYM,Cowley
+1469,503,North Cape,47.06,-64.0,PEI,WNE,North Point Tignish Shore
+1470,569,Summerside,46.44,-63.84,PEI,WSD,Summerside Miscouche
+1471,1714,Gjoa Haven,67.54,-63.79,NU,WGG,
+1472,1610,Inverness,45.1,-63.7,NS,YVE,
+1473,4,Bedford Range,44.75,-63.66,NS,ABR,
+1474,1597,Cape George,44.75,-63.66,NS,WGU,
+1475,1,Bedford Basin,44.71,-63.63,NS,ABB,Bedford
+1476,1596,Brier Island,44.71,-63.63,NS,WVU,
+1477,20,Halifax Windsor Park,44.66,-63.61,NS,AHW,Halifax Dartmouth
+1478,848,Havre-Saint-Pierre,50.28,-63.61,QC,YGY,Deception Bay
+1479,1986,Heath Point,50.28,-63.61,QC,WHB,
+1480,16,Halifax Dockyard,44.66,-63.58,NS,AHD,Halifax
+1481,722,Maple Plains,46.3,-63.58,PEI,XMP,Maple Plains
+1482,1948,Summerside,46.3,-63.58,PE,YSU,
+1483,1607,Halifax,44.65,-63.57,NS,WHX,
+1484,17,Halifax Kootenay,44.59,-63.55,NS,AHK,
+1485,718,Mcnabs Island (Aut),44.61,-63.54,NS,XMI,Mcnabs Island Eastern Passage
+1486,653,Shearwater Jetty,44.63,-63.52,NS,WZU,Shearwater Woodside
+1487,864,Halifax,44.88,-63.51,NS,YHZ,Halifax Elmsdale
+1488,0,Shearwater Rcs,44.63,-63.51,NS,AAW,
+1489,774,Shearwater,44.63,-63.5,NS,YAW,Halifax Eastern Passage
+1490,1611,Kejimkujik,44.58,-63.47,NS,WKL,
+1491,1609,Halifax,44.61,-63.42,NS,XGO,
+1492,28,Osborne Head,44.61,-63.42,NS,AOS,Halifax Eastern Passage
+1493,401,Lac Eon,51.87,-63.28,QC,WEO,Lac Eon
+1494,2003,Lake Dore,51.85,-63.28,QC,CYM,
+1495,1960,Cache Lake,55.33,-63.22,QC,CYA,
+1496,18,Harrington Cda Cs,46.34,-63.17,PEI,AHR,Harrington Union Road
+1497,1065,Charlottetown,46.29,-63.12,PEI,YYG,Charlottetown Brackley
+1498,26,Stanhope,46.42,-63.08,PEI,ANH,
+1499,27,Upper Stewiacke Rcs,45.23,-63.06,NS,AOH,Upper Stewiacke Upper Musquodoboit
+1500,1625,Yarmouth,45.23,-63.06,NS,WQI,
+1501,1983,Havre St Pierre,47.17,-62.83,QC,YGV,
+1502,361,Caribou Point (Aut),45.76,-62.68,NS,WBK,Caribou Point Pictou
+1503,656,Saglek,58.33,-62.59,NF,WZZ,Saglek Hebron
+1504,1569,Salmonier Nature Park,58.33,-62.59,NF,XSA,
+1505,1571,St Albans,58.48,-62.58,NF,YLG,
+1506,724,Malay Falls,44.99,-62.48,NS,XMY,Malay Falls Dufferin Mines
+1507,1747,Pelly Bay,67.1,-62.35,NU,YUF,
+1508,367,Beaver Island (Aut),44.82,-62.34,NS,WBY,Port Menier Port-Menier
+1509,911,Alert,82.52,-62.28,NU,YLT,Alert
+1510,15,Collegeville Auto,45.49,-62.02,NS,AGL,
+1511,402,East Point (Aut),46.46,-61.99,PEI,WEP,East Point Eastern Kings
+1512,1602,Digby,45.38,-61.97,NS,YID,
+1513,925,Minganie,50.19,-61.79,QC,YNA,Natashquan
+1514,64,Natashquan Airport,50.19,-61.79,QC,MNT,
+1515,844,House Harbour,47.43,-61.78,QC,YGR,Iles De La Madeleine Magdalen Islands
+1516,1993,Inukjuak (Port Harrison),47.43,-61.78,QC,MQN,
+1517,430,Iles De La Madeleine,47.43,-61.77,QC,WGR,Iles De La Madeleine Magdalen Islands
+1518,2012,Maniwaki,47.43,-61.77,QC,YMW,
+1519,441,Heath Point,49.09,-61.7,QC,WHP,Heath Point
+1520,1988,Howick,49.08,-61.7,QC,MHW,
+1521,417,Nain,56.55,-61.68,NF,WFP,Nain Natuashish
+1522,818,Nain,56.55,-61.68,NF,YDP,Nain Natuashish
+1523,1565,Port Aux Basques,56.55,-61.68,NF,WZB,
+1524,749,Tracadie,45.61,-61.68,NS,XTD,Tracadie
+1525,1696,Cape Mercy,66.58,-61.62,NU,WYM,
+1526,1695,Cape Mclaughlin,66.65,-61.38,NU,WMG,
+1527,940,Port Hastings,45.66,-61.37,NS,YPD,Port Hawkesbury Port Hastings
+1528,1617,Sable Island,45.66,-61.37,NS,WOL,
+1529,411,Cape Dyer,66.67,-61.36,NU,WFD,Cape Dyer
+1530,1558,Marble Mountain,52.23,-61.32,NF,XME,
+1531,1605,Fundy Park,43.52,-61.25,NS,AFY,
+1532,1603,Fd Point,45.22,-61.18,NS,WPM,
+1533,650,Grand Etang,46.55,-61.05,NS,WZQ,Grand Etang Ch√áticamp
+1534,1606,Halifax,46.55,-61.05,NS,YHX,
+1535,558,Hart Island (Aut),45.35,-60.98,NS,WRN,Hart Island Canso
+1536,512,Northeast Margaree,46.37,-60.98,NS,WNS,Northeast Margaree Marsh Brook
+1537,19,Cheticamp Highlands National Park,46.65,-60.95,NS,AHT,
+1538,1600,Copper Lake,46.65,-60.95,NS,UVW,
+1539,1601,Copper Lake,46.65,-60.95,NS,YVW,
+1540,726,North Mountain,46.82,-60.67,NS,XNM,North Mountain Dingwall
+1541,12,Eskasoni First Nation,45.92,-60.65,NS,AEI,
+1542,1619,Sable Island,43.88,-60.55,NS,YSA,
+1543,1550,Grates Cove,53.3,-60.54,NF,WVW,
+1544,1599,Cheticamp,47.02,-60.45,NS,XCH,
+1545,1551,Grey River,53.32,-60.42,NF,WGC,
+1546,707,Ingonish Beach,46.66,-60.41,NS,XIB,Ingonish Beach
+1547,1555,Little Mecatina River,55.45,-60.23,NF,WFU,
+1548,1591,Atlantic Mobile Upper Air Station,55.45,-60.22,NS,EWA,
+1549,440,Hopedale (Aut),55.45,-60.22,NF,WHO,Hopedale
+1550,1623,Trenton,46.17,-60.16,NS,YTN,
+1551,1566,Port Aux Basques,53.53,-60.15,NF,WOF,
+1552,396,St Paul Island (Aut),47.23,-60.14,NS,WEF,St Paul Island Bay St. Lawrence
+1553,552,Cape Whittle,50.16,-60.06,QC,WQW,Cape Whittle Pointe-√ñ-Maurier
+1554,1624,Truro,46.16,-60.05,NS,WUR,
+1555,31,Sydney Cs,46.16,-60.04,NS,AQY,
+1556,33,Sable Island,43.93,-60.01,NS,ASB,
+1557,1621,Shearwater,43.93,-60.01,NS,WAW,
+1558,35,Louisbourg,45.9,-60.0,NS,AUU,
+1559,567,Halifax,43.93,-59.96,NS,WSA,Sable Island
+1560,382,Chevery,50.46,-59.64,QC,WDM,Chevery C√¨te-Nord-du-Golfe-du-Saint-Laurent
+1561,1968,Chicoutimi,50.47,-59.64,QC,YRC,
+1562,1593,Baccaro Point,47.71,-59.31,NS,WCP,
+1563,37,Wreckhouse,47.71,-59.31,NF,AWR,Wreckhouse St. Andrew's
+1564,833,Makkovik,55.08,-59.19,NF,YFT,Makkovik
+1565,29,Port-Aux-Basques,47.57,-59.15,NF,APB,
+1566,21,Stephenville Rcs,48.56,-58.57,NF,AJT,Stephenville
+1567,873,Stephenville,48.54,-58.55,NF,YJT,Stephenville
+1568,1587,Twin Falls,48.54,-58.55,NF,YWW,
+1569,473,Corner Brook,48.93,-57.92,NF,WKB,Corner Brook Massey Drive
+1570,742,Rocky Harbour,49.57,-57.88,NF,XRH,Rocky Harbour
+1571,1531,Cartwright,47.62,-57.62,NF,WCA,
+1572,2,Burgeo Nl,47.61,-57.61,NF,ABF,
+1573,9,Daniel'S Harbour,50.24,-57.58,NF,ADL,
+1574,1540,Devils Head,50.24,-57.58,NF,WBV,
+1575,6,Cormack Rcs,49.32,-57.39,NF,ACM,
+1576,1539,Daniels Harbour,49.32,-57.39,NF,WDX,
+1577,815,Deer Lake,49.21,-57.39,NF,YDF,Deer Lake Reidville
+1578,1586,Tukialik Bay,48.58,-57.23,NF,WTU,
+1579,790,Blanc-Sablon,51.44,-57.19,QC,YBX,Blanc Sablon Lourdes-de-Blanc-Sablon
+1580,1958,Border,51.44,-57.19,QC,YEC,
+1581,633,Ferolle Point (Aut),51.02,-57.1,NF,WXI,Ferolle Point Shoal Cove
+1582,1544,Gander,51.02,-57.1,NF,WQX,
+1583,792,Green Island,53.67,-57.05,NF,YCA,Cartwright
+1584,24,Millertown Climate,48.82,-56.53,NF,AMR,
+1585,376,Englee (Aut),50.72,-56.11,NF,WDA,Englee
+1586,390,St Anthony,51.38,-56.1,NF,WDW,St Anthony Big Brook
+1587,1574,St Anthony,51.39,-56.09,NF,WAX,
+1588,1575,St Georges,51.39,-56.09,NF,YSG,
+1589,775,St Anthony,51.39,-56.08,NF,YAY,St Anthony Big Brook
+1590,379,Badger (Aut),48.97,-56.07,NF,WDI,Badger
+1591,1519,Bonavista,49.0,-56.0,NF,YVA,
+1592,1573,St Anthony,47.85,-55.87,NF,AAY,
+1593,917,Mary'S Harbour,52.3,-55.85,NF,YMH,Mary's Harbour
+1594,1564,Mingan,52.3,-55.83,NF,YLP,
+1595,648,Sagona Island,47.37,-55.79,NF,WZN,Sagona Island Harbour Breton
+1596,351,La Scie,49.91,-55.67,NF,WAG,La Scie Brent's Cove
+1597,1557,Makkovik,49.92,-55.67,NF,WFT,
+1598,1578,St Johns,51.37,-55.6,NF,UYT,
+1599,1538,Daniels Harbour,48.17,-55.48,NF,WDH,
+1600,1568,Saglek,51.65,-55.45,NF,YSV,
+1601,1520,Bonavista,51.88,-55.38,NF,AVA,
+1602,1521,Bonavista,51.88,-55.38,NF,WVA,
+1603,11,St Lawrence,46.92,-55.38,NF,ADS,
+1604,1584,St Shotts,46.92,-55.38,NF,WFH,
+1605,1585,Star Brook,46.92,-55.38,NF,WHU,
+1606,1526,Bull Arm,49.15,-55.35,NF,WXJ,
+1607,3,Winterland Branch Hill,47.14,-55.33,NF,ABH,
+1608,383,Twillingate (Aut),49.68,-54.8,NF,WDO,Twillingate Crow Head
+1609,1547,Goose,48.95,-54.58,NF,WYR,
+1610,1545,Gander,48.95,-54.57,NF,WXQ,
+1611,973,Gander,48.94,-54.57,NF,YQX,Gander
+1612,697,Gander Airport Cs,48.95,-54.57,NF,XGD,Gander
+1613,1567,Port Aux Basques,47.23,-54.02,NF,YZB,
+1614,1518,Belle Isle,47.3,-54.0,NF,YBI,
+1615,1517,Badger,47.29,-53.99,NF,YDI,
+1616,754,Terra Nova Nat Park Cs,48.56,-53.97,NF,XTP,Terra Nova National Park Traytown
+1617,1528,Burgeo,47.82,-53.9,NF,WBF,
+1618,1529,Cape Kakkiviak,47.82,-53.9,NF,WKW,
+1619,1530,Cape Kiglapait,47.82,-53.87,NF,WYK,
+1620,1589,Wreckhouse,49.15,-53.58,NF,XWR,
+1621,36,Bonavista,48.67,-53.11,NF,AYA,
+1622,1523,Buchans,48.67,-53.11,NF,YZM,
+1623,1524,Bull Arm,48.67,-53.11,NF,WFK,
+1624,1522,Bow Drill Iii,48.7,-53.08,NF,WEJ,
+1625,553,Cape Race (Aut),46.66,-53.08,NF,WRA,Cape Race Portugal Cove South
+1626,1532,Churchill Falls,46.66,-53.08,NF,YUM,
+1627,1556,Long Pond,47.5,-53.02,NF,WWU,
+1628,1559,Marticot Island,47.52,-52.98,NF,WTM,
+1629,614,Grates Cove,48.17,-52.94,NF,WYW,Armstrong Armstrong Station
+1630,22,St Johns West Climate,47.51,-52.78,NF,AJW,
+1631,1582,St Lawrence,47.51,-52.78,NF,WDS,
+1632,1581,St Lawrence,47.52,-52.78,NF,YDS,
+1633,1563,Mary'S Harbour,47.59,-52.74,NF,WMH,
+1634,1579,St Johns,47.63,-52.7,NF,XSW,
