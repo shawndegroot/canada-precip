@@ -1,6 +1,5 @@
 # canada-precip
-A Dash
-app to predict precipitation in Canada. Hosted online at https://canada-precip.herokuapp.com/.
+A [Dash](https://plotly.com/dash/) app to predict precipitation in Canada. Hosted online at https://canada-precip.herokuapp.com/.
 
 [<img src="https://github.com/shawndegroot/canada-precip/blob/master/image.png">](https://canada-precip.herokuapp.com/)
 
