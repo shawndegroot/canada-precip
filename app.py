@@ -138,7 +138,7 @@ app.layout=html.Div(
                          #child 2- Main Text  
                             html.Div([
                                 html.H5(
-                                    """This app uses a machine learning algorithm to predict whether or not 
+                                    """This app uses machine learning to predict whether or not 
                                     there will be precipitation tomorrow, for any of 325 active weather stations in Canada. 
                                     """
                                         )],
