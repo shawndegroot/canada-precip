@@ -6,14 +6,10 @@ import dash_core_components as dcc
 import dash_html_components as html
 import re
 import dash_bootstrap_components as dbc
-import warnings
 from textwrap import dedent
 
 mapbox_style = "mapbox://styles/plotlymapbox/cjyivwt3i014a1dpejm5r7dwr"
-warnings.filterwarnings('ignore')
-PLOTLY_LOGO = "https://images.plot.ly/logo/new-branding/plotly-logomark.png"
 mapbox_access_token = 'pk.eyJ1IjoiZGVncm9vdHMiLCJhIjoiY2p3MDF5aGZ0MDZrcjN5bHA0aXU4M3R1aCJ9.RXDDdwYcaj-wJ7frURO4ZQ'
-#input = '/Users/shawndegroot/Documents/Shawn/ML/Raintmmrw/Rain Cad/scripts/humidity/WORKING/last/'
 PLOTLY_LOGO = "https://images.plot.ly/logo/new-branding/plotly-logomark.png"
 
 app= dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
