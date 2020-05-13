@@ -69,7 +69,7 @@ def markdown_popup():
                                 Minimum Temperature, Maximum Relative Humidity and Minimum Relative Humidity. Precipitation defined as >= 1.1 mm. Decision Tree Classifier trained
                                 on 10 years of daily station data (2010-2019) for 83 stations, downloaded
                                 from [ClimateData.ca] (https://climatedata.ca/). Accuracy of 85%. Idea from [Rain in Australia] (https://www.kaggle.com/jsphyg/weather-dataset-rattle-package) on Kaggle.
-                                Code can be found [here] (https://github.com/shawndegroot?tab=projects).
+                                Code can be found [here] (https://github.com/shawndegroot/canada-precip).
                                 
                                 Created by Shawn DeGroot.
                                 """
