@@ -1,7 +1,6 @@
 import pandas as pd
 import seaborn as sns
 import numpy as np
-from scipy import stats
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
@@ -12,31 +11,6 @@ from sklearn.decomposition import PCA
 from sklearn.metrics import confusion_matrix
 
 fld_select = 'training_noscale.csv'
-fld_new = 'hum_train_final.csv'
-
-# pre-processing
-dft = pd.read_csv(fld_new)
-count=dft.count().sort_values()
-
-dft = dft.drop(columns=['STATION_NAME','STN_ID','LOCAL_DATE', 'CLIMATE_IDENTIFIER','ID','PROVINCE_CODE',
-                     'LOCAL_YEAR','LOCAL_MONTH','LOCAL_DAY','MEAN_TEMPERATURE_FLAG','MIN_TEMPERATURE_FLAG',
-                      'MAX_TEMPERATURE_FLAG','TOTAL_PRECIPITATION_FLAG','TOTAL_RAIN','TOTAL_RAIN_FLAG',
-                      'TOTAL_SNOW','TOTAL_SNOW_FLAG','SNOW_ON_GROUND','SNOW_ON_GROUND_FLAG',
-                      'DIRECTION_MAX_GUST_FLAG','SPEED_MAX_GUST_FLAG','COOLING_DEGREE_DAYS_FLAG',
-                      'HEATING_DEGREE_DAYS_FLAG','MIN_REL_HUMIDITY_FLAG','MAX_REL_HUMIDITY_FLAG','x','y',
-                      'Unnamed: 0','Unnamed: 0.1'],axis=1)
-print(dft.columns) 
-sns.heatmap(dft.isnull(),yticklabels=False,cbar=False,cmap='Reds_r')
-  
-#-9999
-dft=dft.replace(np.nan,-9999)
-dft=dft.reindex(np.random.permutation(dft.index))
- 
-########REMOVE OUTLIERS####################
-z = np.abs(stats.zscore(dft._get_numeric_data()))
-dft= dft[(z < 3).all(axis=1)]
-
-#dft.to_csv('training_noscale.csv')
 
 # feature selection
 ddft = pd.read_csv(fld_select)
