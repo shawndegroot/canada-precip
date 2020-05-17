@@ -9,6 +9,6 @@ The following 5 variables are scraped off the Canadian Weather Office Pages for 
 
 Precipitation is defined as >= 1.1 mm in a day. 
 
-Decision Tree Classifier trained on 10 years of daily station data (2010-2019) for 83 stations (670000 samples), filtered to include days with humidity records. Accuracy of 85%.
+Decision Tree Classifier trained on 10 years of daily station data (2010-2019) for 83 stations (670000 samples). Accuracy of 85%.
 
 If you have any suggestions or ideas for improvements, please don't hesitate to contact me. 
