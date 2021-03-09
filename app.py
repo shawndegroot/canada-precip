@@ -7,6 +7,8 @@ import dash_html_components as html
 import re
 import dash_bootstrap_components as dbc
 from textwrap import dedent
+from datetime import datetime
+
 
 mapbox_style = "mapbox://styles/plotlymapbox/cjyivwt3i014a1dpejm5r7dwr"
 mapbox_access_token = 'pk.eyJ1IjoiZGVncm9vdHMiLCJhIjoiY2p3MDF5aGZ0MDZrcjN5bHA0aXU4M3R1aCJ9.RXDDdwYcaj-wJ7frURO4ZQ'
@@ -241,12 +243,14 @@ def update_output(value):
                     
     try:    
         # go to past 24 hr conditions page for city
+        today = datetime.today()
+        year = str(today.year)
         dfs=pd.read_html("https://weather.gc.ca/past_conditions/index_e.html?station="+city_station_ID)
         dfs2 = pd.DataFrame(dfs)
         dfs2=dfs[0]
         dfs2_new = dfs2.fillna('remove')
         dfs2_new = dfs2_new.iloc[1:]
-        row = dfs2_new.loc[dfs2_new['Conditions'].str.contains("2020")].index.tolist()    
+        row = dfs2_new.loc[dfs2_new['Conditions'].str.contains(year)].index.tolist()  
         dfs3 = dfs2_new.iloc[:row[0]]
         dfs3.drop(dfs3.tail(1).index,inplace=True)
         dfs3 = dfs3.replace("remove", np.nan)       
